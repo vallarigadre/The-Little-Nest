@@ -1,0 +1,42 @@
+{
+  "name": "The Little Nest",
+  "tagline": "Slow, screen-free days with your little one.",
+  "description": "Tot school at home, screen-free toddler play, easy toddler meals and gentle motherhood, with the gear and printables that make the days easier.",
+  "url": "https://thelittlenest.netlify.app",
+  "author": "Vallari Gadre",
+  "authorShort": "V",
+  "amazonTag": "creativedi03c-20",
+  "pinterest": "",
+  "instagram": "",
+  "sections": [
+    {
+      "name": "Tot School",
+      "slug": "tot-school",
+      "blurb": "Simple preschool-at-home rhythms, themes and 15-minute lessons for ages 1 to 4.",
+      "image": ""
+    },
+    {
+      "name": "Play",
+      "slug": "play",
+      "blurb": "Screen-free activities, busy bags, sensory play and the toys worth buying.",
+      "image": ""
+    },
+    {
+      "name": "Meals",
+      "slug": "meals",
+      "blurb": "Easy toddler snacks, lunches and gentle ideas for picky eaters.",
+      "image": ""
+    },
+    {
+      "name": "Motherhood",
+      "slug": "motherhood",
+      "blurb": "Calm routines, gentle discipline and small rituals for slower days.",
+      "image": ""
+    }
+  ],
+  "cloudflareAnalyticsToken": "",
+  "googleAnalyticsId": "",
+  "googleSiteVerification": "",
+  "pinterestVerification": "",
+  "heroAlt": "A sunny playroom with wooden toys and picture books on a low shelf"
+}
