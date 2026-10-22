@@ -183,14 +183,15 @@ function card(post) {
 
 const newsletter = `<section class="letter" aria-labelledby="letter-h">
   <div class="letter__inner">
-    <h2 id="letter-h">Nest Notes</h2>
-    <p>One short letter every Sunday: the week's new ideas, a free printable now and then, and the few finds we actually use.</p>
+    <p class="kicker">Sign up for Nest Notes</p>
+    <h2 id="letter-h">Calm ideas in your inbox, every Sunday</h2>
+    <p>The week's new ideas, a free printable now and then, and the few finds we actually use. One short letter, never spam.</p>
     <form name="newsletter" method="POST" action="/thanks/" data-netlify="true" netlify-honeypot="company" class="letter__form">
       <input type="hidden" name="form-name" value="newsletter">
       <p class="hp"><label>Company <input name="company"></label></p>
       <label for="email" class="sr">Email address</label>
       <input id="email" type="email" name="email" placeholder="you@example.com" required autocomplete="email">
-      <button type="submit">Join the letter</button>
+      <button type="submit">Sign me up</button>
     </form>
   </div>
 </section>`;
@@ -230,9 +231,8 @@ ${site.googleSiteVerification ? `<meta name="google-site-verification" content="
 ${site.pinterestVerification ? `<meta name="p:domain_verify" content="${esc(site.pinterestVerification)}">` : ""}
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="alternate" type="application/rss+xml" title="${esc(site.name)}" href="/rss.xml">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400;1,9..144,500&display=swap" rel="stylesheet">
+<link rel="preload" href="/fonts/josefin-sans-latin-300-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/nunito-sans-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/style.css?v=${CSS_VERSION}">
 ${jsonld}
 ${/^G-[A-Z0-9]+$/.test(site.googleAnalyticsId || "") ? `<script async src="https://www.googletagmanager.com/gtag/js?id=${site.googleAnalyticsId}"></script>
@@ -244,8 +244,7 @@ ${site.cloudflareAnalyticsToken ? `<script defer src="https://static.cloudflarei
 <a class="skip" href="#main">Skip to content</a>
 <header class="masthead">
   <div class="masthead__inner">
-    <a class="wordmark" href="/">${esc(site.name)}</a>
-    ${pagePath === "/" ? "" : `<p class="masthead__tag">${esc(site.tagline)}</p>`}
+    <a class="wordmark" href="/"><svg class="wordmark__mark" viewBox="0 0 40 40" aria-hidden="true"><path d="M5 22c4 9 26 9 30 0" /><path d="M8 24c5 5 19 5 24 0M11 27c4 3 14 3 18 0"/><circle cx="16" cy="18" r="3.4"/><circle cx="23" cy="17" r="3.4"/></svg><span>${esc(site.name)}</span></a>
     <nav class="nav" aria-label="Sections">${nav}<a href="/about/"${pagePath === "/about/" ? ' aria-current="page"' : ""}>About</a></nav>
   </div>
 </header>
@@ -281,77 +280,82 @@ function mini(post) {
 }
 
 function homePage(posts) {
-  // "New this week": everything published in the last 7 days (at most 3), or the latest story.
-  const weekAgo = Date.now() - 7 * 864e5;
-  let fresh = posts.filter((p) => p.date.getTime() >= weekAgo).slice(0, 3);
-  const isWeek = fresh.length > 0;
-  if (!fresh.length) fresh = posts.slice(0, 1);
-  const [lead, ...alsoNew] = fresh;
-  const rest = posts.filter((p) => !fresh.includes(p));
-  const more = rest.slice(0, rest.length >= 3 ? Math.min(6, Math.floor(rest.length / 3) * 3) : rest.length);
+  const img = (f) => fs.existsSync(path.join(ROOT, "static/images", f));
+  const latest = posts.slice(0, 6);
+  const heroImg = img("hero.jpg")
+    ? `<img src="/images/hero.jpg" alt="${esc(site.heroAlt)}" fetchpriority="high">`
+    : `<div class="ph ph--sage" aria-hidden="true">${motifs.play}</div>`;
+  const aboutImg = img("about.jpg")
+    ? `<img src="/images/about.jpg" alt="A cozy reading nook with picture books, a knit blanket and wooden toys" loading="lazy">`
+    : `<div class="ph ph--oat" aria-hidden="true">${motifs.motherhood}</div>`;
 
-  const heroFile = ["hero.jpg", "about.jpg"].find((f) => fs.existsSync(path.join(ROOT, "static/images", f)));
-  const hero = `<section class="hero${heroFile ? "" : " hero--plain"}" aria-labelledby="hero-h">
-  ${heroFile ? `<img class="hero__img" src="/images/${heroFile}" alt="${esc(site.heroAlt || "A sunny playroom with wooden toys and picture books on a low shelf")}" fetchpriority="high">` : ""}
-  <div class="hero__inner wrap">
-    <p class="hero__kicker">Tot school, play and slow toddler days</p>
-    <h1 id="hero-h" class="hero__name">${esc(site.name)}</h1>
-    <p class="hero__tag">${esc(site.tagline)}</p>
+  const hero = `<section class="hero wrap" aria-labelledby="hero-h">
+  <div class="hero__text">
+    <h1 id="hero-h" class="hero__title"><span>Slow, screen-free</span><strong>Toddler days</strong><span>at home</span></h1>
+    <p class="hero__lede">Simple tot school ideas, calm play and easy routines for moms of little ones aged 1 to 4. Fifteen minutes at a time.</p>
     <div class="hero__actions">
-      ${lead ? `<a class="button button--light" href="${lead.url}">Read the newest post</a>` : ""}
-      <a class="button button--outline-light" href="#letter-h">Get the Sunday letter</a>
+      <a class="btn btn--peach" href="/tot-school/">Start with tot school</a>
+      <a class="btn btn--line" href="#letter-h">Get Nest Notes</a>
+    </div>
+  </div>
+  <div class="hero__media"><div class="hero__frame">${heroImg}</div></div>
+</section>`;
+
+  const welcome = `<section class="welcome wrap narrow">
+  <p>Welcome to The Little Nest, a cozy corner of the internet for slower toddler days.</p>
+  <p>Here you will find gentle tot school rhythms, screen-free play ideas that use what you already have, easy toddler meals and the few things worth buying. No pressure, no perfect playrooms, just small moments that add up.</p>
+  <blockquote class="quote"><span aria-hidden="true">&ldquo;</span>Little hands, slow days,<br>and a lot of growing.</blockquote>
+</section>`;
+
+  const meet = `<section class="meet wrap">
+  <div class="meet__img">${aboutImg}</div>
+  <div class="meet__card">
+    <h2>Hi, I'm Vallari</h2>
+    <p class="meet__role">Mom, maker, tot school fan</p>
+    <hr>
+    <p>I'm raising a busy toddler and sharing the simple ideas that make our days calmer: what we play, what we eat, and the few things that actually earn their place in our home.</p>
+    <a class="btn btn--light" href="/about/">Read my story</a>
+  </div>
+</section>`;
+
+  const sections = `<section class="topics wrap" aria-labelledby="topics-h">
+  <p class="kicker">Learn how to</p>
+  <h2 id="topics-h" class="h-sec">Explore the nest</h2>
+  <div class="topics__grid">${site.sections.map((s) => {
+    const f = [`section-${s.slug}.jpg`, s.image].filter(Boolean).find(img);
+    return `<a class="topic" href="/${s.slug}/">
+      <span class="topic__img">${f ? `<img src="/images/${f}" alt="" loading="lazy">` : `<span class="ph ph--${s.slug}" aria-hidden="true">${motifs[s.slug] || motifs.play}</span>`}</span>
+      <span class="topic__name">${s.name}</span>
+      <span class="topic__blurb">${esc(s.blurb)}</span>
+    </a>`;
+  }).join("")}</div>
+</section>`;
+
+  const blog = !latest.length ? "" : `<section class="latest wrap" aria-labelledby="latest-h">
+  <p class="kicker">Fresh from the blog</p>
+  <h2 id="latest-h" class="h-sec">Latest ideas</h2>
+  <div class="grid">${latest.map(card).join("")}</div>
+  ${posts.length > 6 ? `<p class="center"><a class="btn btn--line" href="/archive/">See every post</a></p>` : ""}
+</section>`;
+
+  const freebies = `<section class="free">
+  <div class="free__inner wrap">
+    <div class="free__item">
+      <p class="kicker">Just for you</p>
+      <h2 class="h-sec">Free printables</h2>
+      <p>Busy book pages, tot school planners and activity cards. Join Nest Notes and get every new freebie first.</p>
+      <a class="btn btn--sage" href="#letter-h">Get the freebies</a>
+    </div>
+    <div class="free__item free__item--peach">
+      <p class="kicker">Coming soon</p>
+      <h2 class="h-sec">The Christmas toddler activity book</h2>
+      <p>25 cozy, print-at-home pages of tracing, matching and counting for little hands this holiday season.</p>
+      <a class="btn btn--light" href="#letter-h">Tell me when it's ready</a>
     </div>
   </div>
 </section>`;
 
-  const aboutImg = fs.existsSync(path.join(ROOT, "static/images/about.jpg"))
-    ? `<img src="/images/about.jpg" alt="A cozy reading nook with picture books, a knit blanket and wooden toys" loading="lazy">`
-    : `<div class="cover cover--sm cover--play" aria-hidden="true"><span class="cover__motif">${motifs.play}</span></div>`;
-  const about = `<section class="note wrap" aria-labelledby="note-h">
-  <div class="note__img">${aboutImg}</div>
-  <div class="note__text">
-    <p class="eyebrow">About The Little Nest</p>
-    <h2 id="note-h">A calmer, slower way through the toddler years</h2>
-    <p>The Little Nest is for moms who want calmer, screen-free toddler days: simple tot school ideas, play that keeps little hands busy, easy meals, and the gear that actually earns its place.</p>
-    <p>New ideas twice a week, each with a short list of finds that are safe, well reviewed and fairly priced.</p>
-    <a href="/about/">Meet the mom behind it</a>
-  </div>
-</section>`;
-
-  const featured = !lead ? "" : `<section class="featured wrap" aria-labelledby="featured-h">
-  <h2 id="featured-h" class="rule-h">${isWeek ? "New this week" : "The latest story"}</h2>
-  <div class="front${alsoNew.length ? "" : " front--solo"}">
-    <article class="lead">
-      <a class="lead__cover" href="${lead.url}">${cover(lead, "lg")}</a>
-      <div class="lead__text">
-        <a class="post__section post__section--${lead.section.slug}" href="/${lead.section.slug}/">${esc(lead.section.name)}</a>
-        <h3><a href="${lead.url}">${esc(lead.title)}</a></h3>
-        <p class="lead__dek">${esc(lead.subtitle || lead.description)}</p>
-        ${meta(lead)}
-      </div>
-    </article>
-    ${alsoNew.length ? `<aside class="rail" aria-label="Also new this week">${alsoNew.map(mini).join("")}</aside>` : ""}
-  </div>
-</section>`;
-
-  const moreHtml = !more.length ? "" : `<section class="wrap recent" aria-labelledby="more-h">
-  <h2 id="more-h" class="rule-h">More to read</h2>
-  <div class="grid">${more.map(card).join("")}</div>
-  <p class="more__all"><a class="button button--ghost" href="/archive/">See every story</a></p>
-</section>`;
-
-  const rooms = `<section class="wrap rooms" aria-labelledby="rooms-h">
-  <h2 id="rooms-h" class="rule-h">Browse by section</h2>
-  <div class="rooms__grid">${site.sections.map((s) => {
-    // Section photo: static/images/section-<slug>.jpg, or the stand-in named in site.config.json.
-    const img = [`section-${s.slug}.jpg`, s.image].filter(Boolean).find((f) => fs.existsSync(path.join(ROOT, "static/images", f)));
-    return `<a class="room room--${s.slug}${img ? " room--photo" : ""}" href="/${s.slug}/">${img ? `<img src="/images/${img}" alt="" loading="lazy">` : ""}<span class="room__name">${s.name}</span><span class="room__blurb">${esc(s.blurb)}</span></a>`;
-  }).join("")}</div>
-</section>`;
-
-  const body = !lead
-    ? `${hero}<section class="wrap empty"><h2>First story coming soon</h2></section>${newsletter}`
-    : `${hero}\n${about}\n${featured}\n${moreHtml}\n${rooms}\n${newsletter}`;
+  const body = `${hero}\n${welcome}\n${meet}\n${sections}\n${blog}\n${freebies}\n${newsletter}`;
   write("index.html", layout({ path: "/", body, description: site.description }));
 }
 
@@ -466,7 +470,7 @@ function buildPreview() {
     .map(([route, pg]) => `<section class="pv-page" data-route="${route}" data-title="${esc(pg.title)}" hidden>${fix(pg.body)}</section>`).join("\n");
   const html = `<title>${esc(site.name)}</title>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400;1,9..144,500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;600;700&family=Nunito+Sans:opsz,wght@6..12,400;6..12,600;6..12,700&family=Courier+Prime:ital@0;1&display=swap" rel="stylesheet">
 <style>${css}
 .pv-banner{font:500 .85rem/1.4 var(--sans);background:var(--forest);color:var(--linen);text-align:center;padding:.55rem 1rem}
 </style>
