@@ -23,7 +23,7 @@ Good to know:
 - Amazon links without a tag get `creativedi03c-20` added automatically, and all Amazon links are marked as sponsored for Google.
 - Em dashes are swapped for commas when the site builds.
 - Posts dated in the future wait until their date.
-- The homepage photo is `static/images/hero.jpg`. Replace it with any 1536 x 1024 JPG to change it.
+- The homepage photo is `static/images/hero.jpg`. Replace it with a portrait JPG (about 900 x 1350) to change it.
 
 ## Post front matter
 
