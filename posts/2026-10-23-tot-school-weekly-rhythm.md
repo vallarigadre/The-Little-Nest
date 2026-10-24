@@ -61,9 +61,9 @@ That is five ideas a week, and most of them use things you already own.
 
 You do not need a classroom. A low shelf and one tray are enough.
 
-**A low shelf your toddler can reach.** Keep just three or four activities out at a time and rotate them weekly. Fewer choices make it easier for little ones to focus, and putting things back becomes part of the routine. A sturdy [toddler bookshelf and toy organizer](https://www.amazon.com/s?k=montessori+toddler+bookshelf+low+toy+shelf) at their height turns any corner into a learning nook.
+**A low shelf your toddler can reach.** Keep just three or four activities out at a time and rotate them weekly. Fewer choices make it easier for little ones to focus, and putting things back becomes part of the routine. A sturdy [toddler bookshelf and toy organizer](https://link.amazon/B06nUIp3H) at their height turns any corner into a learning nook.
 
-**A tray for each activity.** Trays tell a toddler "this is where the activity lives." Wooden [Montessori activity trays](https://www.amazon.com/s?k=montessori+wooden+activity+trays+toddler) are durable and look lovely on the shelf, but a baking sheet works too.
+**A tray for each activity.** Trays tell a toddler "this is where the activity lives." Wooden [Montessori activity trays](https://link.amazon/B00VsG3JX) are durable and look lovely on the shelf, but a baking sheet works too.
 
 **A small table and chair, or a floor mat.** Many 2-year-olds prefer the floor, and that is completely fine.
 
@@ -71,12 +71,12 @@ You do not need a classroom. A low shelf and one tray are enough.
 
 Start with a handful of open-ended supplies that work for almost every theme:
 
-- **Chunky crayons.** Easy to grip for small hands. [Crayola My First Palm Grip Crayons](https://www.amazon.com/s?k=Crayola+My+First+Palm+Grip+Crayons) are made for toddlers.
-- **Scoopers and tongs.** Perfect for fine motor days. The [Learning Resources Handy Scoopers](https://www.amazon.com/s?k=Learning+Resources+Handy+Scoopers) are chunky, colorful and built for little hands.
-- **A matching toy.** Simple color and shape matching is ideal at this age. The [Learning Resources Snap-n-Learn Matching Dinos](https://www.amazon.com/s?k=Learning+Resources+Snap+n+Learn+Matching+Dinos) double as a sorting and counting toy.
-- **A wooden puzzle.** Chunky peg puzzles build hand-eye coordination. Try a [Melissa & Doug wooden peg puzzle](https://www.amazon.com/s?k=Melissa+and+Doug+wooden+peg+puzzle+toddler) in a theme your child loves.
-- **Safety scissors for later.** Closer to age 3, many toddlers love snipping paper strips. [Crayola Toddler Safety Scissors](https://www.amazon.com/s?k=Crayola+Toddler+Safety+Scissors) have blunt plastic blades.
-- **A few learning posters.** Colors, shapes and animals on the wall give you something to point to all day. [Hadley Designs educational posters](https://www.amazon.com/s?k=Hadley+Designs+educational+posters+toddler) are bright and simple.
+- **Chunky crayons.** Easy to grip for small hands. [Crayola My First Palm Grip Crayons](https://link.amazon/B0dopVik2) are made for toddlers.
+- **Scoopers and tongs.** Perfect for fine motor days. The [Learning Resources Handy Scoopers](https://link.amazon/B0cmnTNbh) are chunky, colorful and built for little hands.
+- **A matching toy.** Simple color and shape matching is ideal at this age. The [Learning Resources Snap-n-Learn Matching Dinos](https://link.amazon/B0by6baTG) double as a sorting and counting toy.
+- **A wooden puzzle.** Chunky peg puzzles build hand-eye coordination. Try a [Melissa & Doug wooden peg puzzle](https://link.amazon/B04Arqj86) in a theme your child loves.
+- **Safety scissors for later.** Closer to age 3, many toddlers love snipping paper strips. [Crayola Toddler Safety Scissors](https://link.amazon/B07wdokvO) have blunt plastic blades.
+- **A few learning posters.** Colors, shapes and animals on the wall give you something to point to all day. [Hadley Designs educational posters](https://link.amazon/B0iGpBkFU) are bright and simple.
 
 A quick safety note: always check the age label, and keep small items like pom poms, beads and dried pasta for activities you are supervising closely. Anything small enough to fit through a toilet paper tube is a choking hazard for children under 3.
 
@@ -108,14 +108,14 @@ Every activity takes about 10 minutes to set up and uses almost nothing you need
 
 ## Shop the edit
 
-- [Montessori toddler bookshelf and low toy shelf](https://www.amazon.com/s?k=montessori+toddler+bookshelf+low+toy+shelf): the base of any tot school corner.
-- [Montessori wooden activity trays](https://www.amazon.com/s?k=montessori+wooden+activity+trays+toddler): one tray, one activity.
-- [Crayola My First Palm Grip Crayons](https://www.amazon.com/s?k=Crayola+My+First+Palm+Grip+Crayons): coloring made easy for little hands.
-- [Learning Resources Handy Scoopers](https://www.amazon.com/s?k=Learning+Resources+Handy+Scoopers): the fine motor favorite.
-- [Learning Resources Snap-n-Learn Matching Dinos](https://www.amazon.com/s?k=Learning+Resources+Snap+n+Learn+Matching+Dinos): colors, shapes and counting in one.
-- [Melissa & Doug wooden peg puzzle](https://www.amazon.com/s?k=Melissa+and+Doug+wooden+peg+puzzle+toddler): a classic for a reason.
-- [Crayola Toddler Safety Scissors](https://www.amazon.com/s?k=Crayola+Toddler+Safety+Scissors): for snipping practice closer to age 3.
-- [Hadley Designs educational posters](https://www.amazon.com/s?k=Hadley+Designs+educational+posters+toddler): colors, shapes and animals for the wall.
+- [Montessori toddler bookshelf and low toy shelf](https://link.amazon/B06nUIp3H): the base of any tot school corner.
+- [Montessori wooden activity trays](https://link.amazon/B00VsG3JX): one tray, one activity.
+- [Crayola My First Palm Grip Crayons](https://link.amazon/B0dopVik2): coloring made easy for little hands.
+- [Learning Resources Handy Scoopers](https://link.amazon/B0cmnTNbh): the fine motor favorite.
+- [Learning Resources Snap-n-Learn Matching Dinos](https://link.amazon/B0by6baTG): colors, shapes and counting in one.
+- [Melissa & Doug wooden peg puzzle](https://link.amazon/B04Arqj86): a classic for a reason.
+- [Crayola Toddler Safety Scissors](https://link.amazon/B07wdokvO): for snipping practice closer to age 3.
+- [Hadley Designs educational posters](https://link.amazon/B0iGpBkFU): colors, shapes and animals for the wall.
 
 ## Start small this week
 
