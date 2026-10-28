@@ -2,7 +2,6 @@
 title: "Thanksgiving with a toddler: an easy toddler plate and gentle picky eater tips"
 subtitle: "A calm, low-pressure plan for the big meal, with a simple plate formula, safe serving tips and what to do when they only want rolls."
 date: 2026-10-28
-draft: true
 category: Meals
 description: "How to build a toddler Thanksgiving plate, serve holiday foods safely for under 4s and handle picky eating at the big meal without pressure."
 tags: [thanksgiving with a toddler, toddler thanksgiving plate, picky eater tips, toddler meals, holiday food safety for kids, montessori mealtime]
