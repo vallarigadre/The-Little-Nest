@@ -20,7 +20,7 @@ A mom and toddler blog on tot school, screen-free play, toddler meals and slow m
 You can still edit any post right on GitHub: open the file, click the pencil icon, change text or links, and commit.
 
 Good to know:
-- Amazon links without a tag get `creativedi03c-20` added automatically, and all Amazon links are marked as sponsored for Google.
+- Full amazon.com links get the `thelittlenestblog-20` tag automatically (any other tag is swapped for it), and all Amazon links are marked as sponsored for Google. Short SiteStripe links (link.amazon or amzn.to) keep whatever tracking ID was picked in SiteStripe when the link was made, so choose `thelittlenestblog-20` in the SiteStripe tracking ID menu before copying a link.
 - Em dashes are swapped for commas when the site builds.
 - Posts dated in the future wait until their date.
 - The homepage photo is `static/images/hero.jpg`. Replace it with a portrait JPG (about 900 x 1350) to change it.
@@ -51,7 +51,25 @@ cover_alt: "Optional image description"
 
 Install Node.js, then in this folder run `npm install` and `npm start`.
 
-## See how many people read each post
+## Your private stats page
+
+Open https://thelittlenestblog.netlify.app/admin/ and sign in with your stats password. It shows:
+
+- Views and read-throughs for every post (a read-through means the reader scrolled at least 60% of the post).
+- Amazon clicks: which products, from which post, in the story or in the shop list.
+- Where readers came from: Pinterest, Instagram, Threads, Google, Direct and more.
+- Day-by-day views and clicks, devices and countries.
+
+Counts are anonymous, with no cookies. Once you sign in, that browser stops counting your own visits.
+
+To get credit for Instagram and Threads traffic (those apps often hide where a visit came from), add a tag to links you share there:
+`https://thelittlenestblog.netlify.app/posts/your-post/?utm_source=instagram` (or `threads`, `pinterest`, `newsletter`).
+
+To change the password: in Netlify, open Site configuration, Environment variables, add `STATS_PASSWORD` with your new password, and redeploy. Sales and earnings are in Amazon Associates under the `thelittlenestblog-20` tracking ID.
+
+How it works: `static/t.js` sends each event to `netlify/functions/t.mjs`, which stores it in Netlify Blobs. Every hour `compact-stats.mjs` rolls events into daily totals, and `/api/stats` (`stats.mjs`) serves them to `static/admin/index.html`.
+
+## See how many people read each post (optional extras)
 
 The site is ready for Cloudflare Web Analytics, which is free and uses no cookies.
 

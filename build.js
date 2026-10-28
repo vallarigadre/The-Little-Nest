@@ -5,6 +5,7 @@
 const fs = require("fs");
 const CSS_VERSION = require("crypto").createHash("md5").update(require("fs").readFileSync(require("path").join(__dirname, "static/style.css"))).digest("hex").slice(0, 10);
 const path = require("path");
+const T_VERSION = require("crypto").createHash("md5").update(fs.readFileSync(path.join(__dirname, "static/t.js"))).digest("hex").slice(0, 10);
 const matter = require("gray-matter");
 const { marked } = require("marked");
 
@@ -69,8 +70,9 @@ function processLinks(html) {
   return html.replace(/<a href="([^"]+)"([^>]*)>/g, (m, href, rest) => {
     let url = href.replace(/&amp;/g, "&");
     const isAmazon = /^https?:\/\/(www\.)?(amazon\.com|amzn\.to|a\.co|link\.amazon)\//i.test(url);
-    if (isAmazon && /amazon\.com/i.test(url) && site.amazonTag && !/[?&]tag=/.test(url)) {
-      url += (url.includes("?") ? "&" : "?") + "tag=" + site.amazonTag;
+    if (isAmazon && /amazon\.com/i.test(url) && site.amazonTag) {
+      if (/[?&]tag=/.test(url)) url = url.replace(/([?&])tag=[^&#]*/, "$1tag=" + site.amazonTag);
+      else url += (url.includes("?") ? "&" : "?") + "tag=" + site.amazonTag;
     }
     const external = /^https?:\/\//i.test(url) && !url.startsWith(SITE_URL);
     let attrs = "";
@@ -238,6 +240,7 @@ ${jsonld}
 ${/^G-[A-Z0-9]+$/.test(site.googleAnalyticsId || "") ? `<script async src="https://www.googletagmanager.com/gtag/js?id=${site.googleAnalyticsId}"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("config","${site.googleAnalyticsId}");
 document.addEventListener("click",function(e){var a=e.target.closest&&e.target.closest("a.shop-link");if(a)gtag("event","affiliate_click",{link_url:a.href,link_text:(a.textContent||"").trim().slice(0,100)});});</script>` : ""}
+${noindex ? "" : `<script defer src="/t.js?v=${T_VERSION}"></script>`}
 ${site.cloudflareAnalyticsToken ? `<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "${esc(site.cloudflareAnalyticsToken)}"}'></script>` : ""}
 </head>
 <body>
@@ -445,7 +448,7 @@ function feeds(posts, pages) {
     ...posts.map((p) => ({ u: p.url, lastmod: day(p.date), img: p.cover && fs.existsSync(path.join(ROOT, "static", p.cover)) ? SITE_URL + p.cover : "" })),
   ];
   write("sitemap.xml", `<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">${urls.map(({ u, lastmod, img }) => `<url><loc>${SITE_URL}${u}</loc>${lastmod ? `<lastmod>${lastmod}</lastmod>` : ""}${img ? `<image:image><image:loc>${esc(img)}</image:loc></image:image>` : ""}</url>`).join("")}</urlset>`);
-  write("robots.txt", `User-agent: *\nAllow: /\nSitemap: ${SITE_URL}/sitemap.xml\n`);
+  write("robots.txt", `User-agent: *\nAllow: /\nDisallow: /admin/\nSitemap: ${SITE_URL}/sitemap.xml\n`);
 }
 
 // ---------- one-file preview (for reviewing the design inside Claude) ----------
