@@ -34,7 +34,7 @@ A few things help more than any recipe:
 
 The easiest way to take pressure off is to use what feeding experts often call a "safe food" approach. You put a small amount of a few different foods on the plate, and always include at least one food your toddler reliably eats. That way there is something comforting there, and the new foods can simply sit nearby without anyone insisting.
 
-A divided plate makes this feel calm and tidy, and many toddlers like that foods do not touch. A suction plate like this [bamboo divided suction plate](https://www.amazon.com/dp/B0107MAD2K?tag=creativedi03c-20) stays put on a busy table, and child-sized utensils such as the [doddl toddler fork and spoon set](https://www.amazon.com/dp/B0779CZ9FD?tag=creativedi03c-20), designed for 1 to 3 year olds, make self-feeding easier when the adult cutlery is big and heavy.
+A divided plate makes this feel calm and tidy, and many toddlers like that foods do not touch. A suction plate like this [bamboo divided suction plate](https://link.amazon/B09Z2QlCA) stays put on a busy table, and child-sized utensils such as the [doddl toddler fork and spoon set](https://link.amazon/B07E0iH9J), designed for 1 to 3 year olds, make self-feeding easier when the adult cutlery is big and heavy.
 
 ### The four-part plate formula
 
@@ -79,7 +79,7 @@ Picky eating at Thanksgiving usually comes down to three things: unfamiliar food
 - **Serve family style when you can.** Toddlers are more likely to try something they see you enjoying, and even more likely if they served it themselves.
 - **Have a calm script for comments.** If a relative pushes, try something friendly like, "We're keeping dinner low-pressure, she'll try it when she's ready." Then change the subject. You do not owe anyone a debate over the mashed potatoes.
 
-A little open cup also helps toddlers feel included at the grown-up table. The [EZTOTZ tough to tip toddler cup](https://www.amazon.com/dp/B07ZS1YSJ1?tag=creativedi03c-20), made for 12 months and up, is short and steady, which is reassuring on a crowded tablecloth.
+A little open cup also helps toddlers feel included at the grown-up table. The [EZTOTZ tough to tip toddler cup](https://link.amazon/B06LSBDNS), made for 12 months and up, is short and steady, which is reassuring on a crowded tablecloth.
 
 ## Let them help in the kitchen
 
@@ -95,7 +95,7 @@ Pick one or two tasks that fit your child and your patience level that day:
 - **Pouring water** for the table from a small pitcher.
 - **Setting out napkins** at each place.
 
-A sturdy kitchen helper means they can see and reach the counter safely. This [Dorjee wooden toddler tower](https://www.amazon.com/dp/B0D5HG2WPF?tag=creativedi03c-20) adjusts to three heights. For cutting jobs, a set like this [kids knife set with cutting board](https://www.amazon.com/dp/B0CGZY7SDW?tag=creativedi03c-20), labeled for ages 3 and up, is made for soft foods, and a little [stainless steel Montessori pitcher](https://www.amazon.com/dp/B0DJP9TNQC?tag=creativedi03c-20) is just the right size for small hands. Stay right beside them, keep them well away from the stove and hot dishes, and expect spills. Spills are part of learning.
+A sturdy kitchen helper means they can see and reach the counter safely. This [Dorjee wooden toddler tower](https://link.amazon/B0gpqS4RA) adjusts to three heights. For cutting jobs, a set like this [kids knife set with cutting board](https://link.amazon/B0iit4gSn), labeled for ages 3 and up, is made for soft foods, and a little [stainless steel Montessori pitcher](https://link.amazon/B0eUyz72T) is just the right size for small hands. Stay right beside them, keep them well away from the stove and hot dishes, and expect spills. Spills are part of learning.
 
 ![A toddler's hands tearing bread into a wooden bowl on a low counter beside a small steel pitcher and a sage linen towel](/images/thanksgiving-with-a-toddler-3.jpg)
 
@@ -103,25 +103,25 @@ A sturdy kitchen helper means they can see and reach the counter safely. This [D
 
 The hour before the meal is often the hardest part. Everyone is busy, the kitchen is hot, and your toddler is hungry and bored. A short, cozy plan helps.
 
-**Read together.** Find a quiet corner and a couple of gentle Thanksgiving board books. [Mouse's Thanksgiving](https://www.amazon.com/dp/0823448266?tag=creativedi03c-20) is a playful pick for ages 0 to 3, and [Look and Be Grateful by Tomie dePaola](https://www.amazon.com/dp/0823442675?tag=creativedi03c-20) is a sweet, simple way to introduce the idea of noticing good things.
+**Read together.** Find a quiet corner and a couple of gentle Thanksgiving board books. [Mouse's Thanksgiving](https://link.amazon/B0effkYMA) is a playful pick for ages 0 to 3, and [Look and Be Grateful by Tomie dePaola](https://link.amazon/B08b0bdyJ) is a sweet, simple way to introduce the idea of noticing good things.
 
 **Try a tiny gratitude ritual.** Toddlers will not understand gratitude as an abstract idea, but they can name things they love. "I'm thankful for Grandma. What do you love?" Their answers might be "trucks" or "my toes," and that is perfect.
 
-**Give them a table job.** A wipeable [silicone placemat](https://www.amazon.com/dp/B08DW9347J?tag=creativedi03c-20) can be their own special spot, and setting it out is a job they can own. It also saves the host's good tablecloth.
+**Give them a table job.** A wipeable [silicone placemat](https://link.amazon/B0gpqS4RA) can be their own special spot, and setting it out is a job they can own. It also saves the host's good tablecloth.
 
 If you would like printable toddler meal ideas and simple plate guides for busy days, join Nest Notes below to get free printables first. Our Little Bites meal plans are on the way.
 
 ## Shop the list
 
-- **[Bamboo divided suction plate](https://www.amazon.com/dp/B0107MAD2K?tag=creativedi03c-20):** Keeps foods separate and stays put on a busy table.
-- **[doddl toddler fork and spoon set](https://www.amazon.com/dp/B0779CZ9FD?tag=creativedi03c-20):** Short, easy-grip stainless steel utensils for 1 to 3 year olds.
-- **[EZTOTZ tough to tip toddler cup](https://www.amazon.com/dp/B07ZS1YSJ1?tag=creativedi03c-20):** A steady open cup for 12 months and up.
-- **[Silicone placemat](https://www.amazon.com/dp/B08DW9347J?tag=creativedi03c-20):** An easy-clean spot of their own at any table.
-- **[Dorjee wooden toddler tower](https://www.amazon.com/dp/B0D5HG2WPF?tag=creativedi03c-20):** A safe way to help at the counter, with three heights.
-- **[Kids knife set with cutting board](https://www.amazon.com/dp/B0CGZY7SDW?tag=creativedi03c-20):** For cutting soft foods with close supervision, ages 3 and up.
-- **[Stainless steel Montessori pitcher](https://www.amazon.com/dp/B0DJP9TNQC?tag=creativedi03c-20):** A small, sturdy jug for pouring practice.
-- **[Mouse's Thanksgiving](https://www.amazon.com/dp/0823448266?tag=creativedi03c-20):** A playful holiday board book for ages 0 to 3.
-- **[Look and Be Grateful by Tomie dePaola](https://www.amazon.com/dp/0823442675?tag=creativedi03c-20):** A gentle board book about noticing everyday good things.
+- **[Bamboo divided suction plate](https://link.amazon/B09Z2QlCA):** Keeps foods separate and stays put on a busy table.
+- **[doddl toddler fork and spoon set](https://link.amazon/B07E0iH9J):** Short, easy-grip stainless steel utensils for 1 to 3 year olds.
+- **[EZTOTZ tough to tip toddler cup](https://link.amazon/B06LSBDNS):** A steady open cup for 12 months and up.
+- **[Silicone placemat](https://link.amazon/B0gpqS4RA):** An easy-clean spot of their own at any table.
+- **[Dorjee wooden toddler tower](https://link.amazon/B0gpqS4RA):** A safe way to help at the counter, with three heights.
+- **[Kids knife set with cutting board](https://link.amazon/B0iit4gSn):** For cutting soft foods with close supervision, ages 3 and up.
+- **[Stainless steel Montessori pitcher](https://link.amazon/B0eUyz72T):** A small, sturdy jug for pouring practice.
+- **[Mouse's Thanksgiving](https://link.amazon/B0effkYMA):** A playful holiday board book for ages 0 to 3.
+- **[Look and Be Grateful by Tomie dePaola](https://link.amazon/B08b0bdyJ):** A gentle board book about noticing everyday good things.
 
 ## A calm, happy table is enough
 
