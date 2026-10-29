@@ -2,7 +2,7 @@
 // Nothing personal is kept: no IP address, no cookie, no user ID.
 import { getStore } from "@netlify/blobs";
 
-const BOT = /bot|crawl|spider|slurp|preview|headless|lighthouse|pingdom|monitor|facebookexternalhit|pinterest\/|embedly|curl|wget|python|axios|node-fetch/i;
+const BOT = /bot|crawl|spider|slurp|preview|headless|lighthouse|pingdom|monitor|facebookexternalhit|pinterestbot|pinterest\/0\.|embedly|curl|wget|python|axios|node-fetch/i;
 const TYPES = new Set(["view", "read", "click"]);
 const clip = (v, n) => (typeof v === "string" ? v.slice(0, n) : "");
 
