@@ -2,7 +2,6 @@
 title: "The best Montessori toys for 1 to 3 year olds: a calm Christmas gift guide"
 subtitle: "A short, thoughtful list of simple wooden toys by age, so you can buy less, choose well and order early."
 date: 2026-10-31
-draft: true
 category: Play
 description: "The best Montessori toys for 1, 2 and 3 year olds, sorted by age: simple wooden Christmas gifts that get played with long after the wrapping is gone."
 tags: [montessori toys for toddlers, toddler christmas gift guide, montessori gifts 1 year old, montessori gifts 2 year old, wooden toys for toddlers, screen-free gifts]
