@@ -101,7 +101,9 @@ Some toddlers are just not ready for the doorbell and the dark, and some parents
 - **Take a daytime walk** to look at friendly decorations. Count pumpkins, spot black cats and wave at neighbors.
 - **Visit a daytime event.** Many libraries, farms and community centers host toddler-friendly costume parades and trunk-or-treats in the afternoon.
 
-If you love having a little plan for days like this, join Nest Notes at the bottom of the page to get free toddler printables first.
+If you love having a little plan for slow days at home, my free activity cards have 20 more easy, screen-free ideas you can pull out any afternoon.
+
+{{product:activity-cards}}
 
 ## Shop the list
 

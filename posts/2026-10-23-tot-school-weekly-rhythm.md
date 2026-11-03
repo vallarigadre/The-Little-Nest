@@ -106,6 +106,10 @@ Every activity takes about 10 minutes to set up and uses almost nothing you need
 
 **Skip days without guilt.** Sick days, busy days and grumpy days happen. The rhythm will be waiting for you tomorrow.
 
+Want your week planned in five minutes? My free Tot School Weekly Planner has this exact Monday to Friday rhythm, a filled-in sample week and 24 theme ideas.
+
+{{product:tot-school-planner}}
+
 ## Shop the edit
 
 - [Montessori toddler bookshelf and low toy shelf](https://link.amazon/B06nUIp3H): the base of any tot school corner.

@@ -265,3 +265,25 @@ h1, h2, h3 { font-family: var(--head); font-weight: 400; line-height: 1.15; lett
   .foot__inner { grid-template-columns: 1fr; }
   .meet__card { margin: -2.5rem 0 0 .8rem; }
 }
+
+/* ---------- your products (cards in posts, shop page, homepage) ---------- */
+.product { display: grid; grid-template-columns: minmax(0, 200px) minmax(0, 1fr); gap: 1.4rem; align-items: center; background: var(--oat); padding: 1.2rem; margin: 2.4rem 0; }
+.product__img { display: block; aspect-ratio: 1; overflow: hidden; background: var(--paper); }
+.prose .product__img img, .product__img img { width: 100%; height: 100%; object-fit: cover; margin: 0; }
+.product__body { min-width: 0; }
+.prose .product p, .product p { margin: 0 0 .6rem; }
+.product__kicker { font: 600 .72rem/1.2 var(--head); letter-spacing: .16em; text-transform: uppercase; color: var(--sage-deep); }
+.product__name { font: 400 1.35rem/1.25 var(--head); }
+.product__name a { text-decoration: none; }
+.product__blurb { color: var(--soft); font-size: 1rem; line-height: 1.6; }
+.prose .product .product__buy, .product__buy { display: flex; flex-wrap: wrap; align-items: center; gap: .6rem 1rem; margin: .4rem 0 0; }
+.prose .product .btn { color: #fff; text-decoration: none; }
+.prose .product .btn--sage { color: #1f3326; }
+.product__price { font: 600 1rem/1 var(--head); letter-spacing: .04em; }
+.shop-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr)); gap: 1.4rem; margin-bottom: 3rem; }
+.product--tile { grid-template-columns: 1fr; align-items: start; margin: 0; background: var(--paper); padding: 1rem 1rem 1.3rem; }
+.free .product--tile { background: var(--paper); }
+@media (max-width: 600px) {
+  .product { grid-template-columns: 1fr; }
+  .product .product__img { max-width: 320px; }
+}

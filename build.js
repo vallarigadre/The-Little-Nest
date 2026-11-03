@@ -117,7 +117,7 @@ function loadPosts() {
       const section = sectionFor(data.category || guessSection(body));
 
       body = stripEmDashes(body);
-      const html = inlinePhotos(processLinks(marked.parse(body)))
+      const html = renderProducts(inlinePhotos(processLinks(marked.parse(body))))
         .replace(/^\s*<p><em>([^<]*Amazon Associate[^<]*)<\/em><\/p>/i, '<p class="disclosure">$1</p>');
       const text = html.replace(/<[^>]+>/g, " ");
       const words = text.split(/\s+/).filter(Boolean).length;
@@ -147,6 +147,26 @@ function loadPages() {
     const slug = data.slug || file.replace(/\.md$/, "");
     return { slug, title: data.title || slug, description: data.description || "", html: processLinks(marked.parse(stripEmDashes(content))) };
   });
+}
+
+
+// ---------- your own products (from site.config.json "products") ----------
+// In a post, a paragraph that is only {{product:ID}} becomes a product card.
+const PRODUCTS = Object.fromEntries((site.products || []).map((p) => [p.id, p]));
+function productCard(p, variant = "") {
+  if (!p) return "";
+  return `<aside class="product${variant ? " product--" + variant : ""}" aria-label="${esc(p.free ? "Free printable" : "From The Little Nest shop")}">
+  <a class="product__img" href="${esc(p.url)}" target="_blank" rel="noopener"><img src="${esc(p.image)}" alt="${esc(p.name + " cover")}" loading="lazy" width="600" height="600"></a>
+  <div class="product__body">
+    <p class="product__kicker">${p.free ? "Free printable" : "From the shop"}</p>
+    <p class="product__name"><a href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.name)}</a></p>
+    <p class="product__blurb">${esc(p.blurb)}</p>
+    <p class="product__buy"><a class="btn ${p.free ? "btn--sage" : "btn--peach"} product-link" href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.button || (p.free ? "Get it free" : "Get it"))}</a><span class="product__price">${esc(p.price)}</span></p>
+  </div>
+</aside>`;
+}
+function renderProducts(html) {
+  return html.replace(/<p>\s*\{\{\s*product:\s*([a-z0-9-]+)\s*\}\}\s*<\/p>/gi, (m, id) => productCard(PRODUCTS[id]) || "");
 }
 
 // ---------- pieces ----------
@@ -248,7 +268,7 @@ ${site.cloudflareAnalyticsToken ? `<script defer src="https://static.cloudflarei
 <header class="masthead">
   <div class="masthead__inner">
     <a class="wordmark" href="/"><svg class="wordmark__mark" viewBox="0 0 40 40" aria-hidden="true"><path d="M5 22c4 9 26 9 30 0" /><path d="M8 24c5 5 19 5 24 0M11 27c4 3 14 3 18 0"/><circle cx="16" cy="18" r="3.4"/><circle cx="23" cy="17" r="3.4"/></svg><span>${esc(site.name)}</span></a>
-    <nav class="nav" aria-label="Sections">${nav}<a href="/about/"${pagePath === "/about/" ? ' aria-current="page"' : ""}>About</a></nav>
+    <nav class="nav" aria-label="Sections">${nav}${(site.products || []).length ? `<a href="/shop/"${pagePath === "/shop/" ? ' aria-current="page"' : ""}>Shop</a>` : ""}<a href="/about/"${pagePath === "/about/" ? ' aria-current="page"' : ""}>About</a></nav>
   </div>
 </header>
 <main id="main">
@@ -341,20 +361,12 @@ function homePage(posts) {
   ${posts.length > 6 ? `<p class="center"><a class="btn btn--line" href="/archive/">See every post</a></p>` : ""}
 </section>`;
 
-  const freebies = `<section class="free">
-  <div class="free__inner wrap">
-    <div class="free__item">
-      <p class="kicker">Just for you</p>
-      <h2 class="h-sec">Free printables</h2>
-      <p>Busy book pages, tot school planners and activity cards. Join Nest Notes and get every new freebie first.</p>
-      <a class="btn btn--sage" href="#letter-h">Get the freebies</a>
-    </div>
-    <div class="free__item free__item--peach">
-      <p class="kicker">Coming soon</p>
-      <h2 class="h-sec">The Christmas toddler activity book</h2>
-      <p>25 cozy, print-at-home pages of tracing, matching and counting for little hands this holiday season.</p>
-      <a class="btn btn--light" href="#letter-h">Tell me when it's ready</a>
-    </div>
+  const prods = site.products || [];
+  const freebies = !prods.length ? "" : `<section class="free" aria-labelledby="free-h">
+  <div class="wrap">
+    <p class="kicker center">Printables for slower days</p>
+    <h2 id="free-h" class="h-sec center">From The Little Nest shop</h2>
+    <div class="shop-grid">${prods.map((p) => productCard(p, "tile")).join("")}</div>
   </div>
 </section>`;
 
@@ -428,6 +440,18 @@ ${newsletter}`;
   });
 }
 
+function shopPage() {
+  const prods = site.products || [];
+  if (!prods.length) return;
+  const free = prods.filter((p) => p.free), paid = prods.filter((p) => !p.free);
+  const body = `<section class="wrap listing">
+    <header class="listing__head"><h1>Shop</h1><p>Simple printables for calm, screen-free toddler days. Instant PDF downloads, delivered to your inbox.</p></header>
+    ${paid.length ? `<h2 class="rule-h">Printable books</h2><div class="shop-grid">${paid.map((p) => productCard(p, "tile")).join("")}</div>` : ""}
+    ${free.length ? `<h2 class="rule-h">Free printables</h2><div class="shop-grid">${free.map((p) => productCard(p, "tile")).join("")}</div>` : ""}
+  </section>${newsletter}`;
+  write("shop/index.html", layout({ title: "Shop", description: "Printable toddler activity books and free printables from The Little Nest.", path: "/shop/", body }));
+}
+
 function staticPages(pages) {
   pages.forEach((pg) => {
     const body = `<article class="post"><header class="post__head wrap"><h1>${esc(pg.title)}</h1></header><div class="prose">${pg.html}</div></article>`;
@@ -445,6 +469,7 @@ function feeds(posts, pages) {
   const urls = [
     ...["/", "/archive/", ...site.sections.map((s) => `/${s.slug}/`)].map((u) => ({ u, lastmod: latest })),
     ...pages.map((p) => ({ u: `/${p.slug}/` })),
+    ...((site.products || []).length ? [{ u: "/shop/", lastmod: latest }] : []),
     ...posts.map((p) => ({ u: p.url, lastmod: day(p.date), img: p.cover && fs.existsSync(path.join(ROOT, "static", p.cover)) ? SITE_URL + p.cover : "" })),
   ];
   write("sitemap.xml", `<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">${urls.map(({ u, lastmod, img }) => `<url><loc>${SITE_URL}${u}</loc>${lastmod ? `<lastmod>${lastmod}</lastmod>` : ""}${img ? `<image:image><image:loc>${esc(img)}</image:loc></image:image>` : ""}</url>`).join("")}</urlset>`);
@@ -517,6 +542,7 @@ sectionPages(posts);
 archivePage(posts);
 postPages(posts, drafts);
 staticPages(pages);
+shopPage();
 feeds(posts, pages);
 
 buildPreview();

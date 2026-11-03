@@ -91,6 +91,10 @@ Late afternoon is the hardest stretch of a cold day. These help everyone slow do
 
 **Get outside anyway.** Even ten minutes in a warm coat and rain boots resets everyone. Puddle jumping counts as an activity.
 
+Want these ideas ready to grab? My free activity cards turn them into 20 printable cards you can keep in a box by the door.
+
+{{product:activity-cards}}
+
 ## Shop the edit
 
 - [Toddler sensory bin with lid](https://www.amazon.com/s?k=toddler+sensory+bin+with+lid): set up, play and pack away in minutes.

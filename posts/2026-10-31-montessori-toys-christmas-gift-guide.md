@@ -87,7 +87,9 @@ New toys can feel exciting and overwhelming at the same time. A few simple habit
 - **Show, then step back.** Slowly model how a new toy works once, then let your toddler explore without correcting. Their way is part of the learning.
 - **Check safety as you go.** Remove packaging, ties and tiny tags right away, look for any loose or small parts, and keep toys meant for older kids away from little ones who still mouth everything.
 
-Want simple ideas for using these toys all winter? Join Nest Notes below to get free printables first, including screen-free activity ideas sorted by age.
+Looking for a small, screen-free gift or stocking stuffer to go with the toys? My Christmas Toddler Activity Book is 29 printable pages of tracing, matching and counting, and it is ready to print the minute you buy it.
+
+{{product:christmas-activity-book}}
 
 ## Shop the list
 

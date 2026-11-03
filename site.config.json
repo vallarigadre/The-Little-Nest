@@ -38,5 +38,48 @@
   "googleAnalyticsId": "",
   "googleSiteVerification": "",
   "pinterestVerification": "",
-  "heroAlt": "A sunny playroom with wooden toys and picture books on a low shelf"
+  "heroAlt": "A sunny playroom with wooden toys and picture books on a low shelf",
+  "shopUrl": "https://beacons.ai/thelittlenestblog",
+  "products": [
+    {
+      "id": "christmas-activity-book",
+      "name": "The Christmas Toddler Activity Book",
+      "price": "$9",
+      "free": false,
+      "url": "https://shop.beacons.ai/thelittlenestblog/a6bc164f-d078-4f1e-a15b-aee6cea5d637",
+      "image": "https://cdn.beacons.ai/user_content/0xRAZl90FlZYRyAESG04etoT5vF2/referenced_images/9b8b8fc6-78c0-4575-9591-595a9ee8b11e__store__product-image__a6bc164f-d078-4f1e-a15b-aee6cea5d637__0064201b-7fbe-4bf9-bf56-d3027d0574cd.webp",
+      "blurb": "29 print-at-home pages of Christmas tracing, matching and counting, one simple task per page, for five calm minutes at a time.",
+      "button": "Get the book"
+    },
+    {
+      "id": "activity-cards",
+      "name": "20 Screen-Free Activity Cards",
+      "price": "Free",
+      "free": true,
+      "url": "https://shop.beacons.ai/thelittlenestblog/1403f415-5da5-42c3-a35c-811a38153445",
+      "image": "https://cdn.beacons.ai/user_content/0xRAZl90FlZYRyAESG04etoT5vF2/referenced_images/352e2880-aa53-4aa7-a423-9620251af9c1__store__product-image__1403f415-5da5-42c3-a35c-811a38153445__f4620d2b-419f-414d-a96a-7a77440081f4.webp",
+      "blurb": "Easy indoor ideas for cold and rainy days, sorted into sensory play, busy hands, movement and quiet time, using things you already have.",
+      "button": "Get the free cards"
+    },
+    {
+      "id": "tot-school-planner",
+      "name": "Tot School Weekly Planner",
+      "price": "Free",
+      "free": true,
+      "url": "https://shop.beacons.ai/thelittlenestblog/d2556853-4ff0-4307-971c-60f6517b67c3",
+      "image": "https://cdn.beacons.ai/user_content/0xRAZl90FlZYRyAESG04etoT5vF2/referenced_images/b08b240e-e53b-49d8-958e-f6db96ac7ee5__store__product-image__d2556853-4ff0-4307-971c-60f6517b67c3__dcffff41-cd66-47df-96c3-58bb6fe238f9.webp",
+      "blurb": "One theme a week, fifteen calm minutes a day: a weekly planner, a filled-in sample week, 24 theme ideas and a supply checklist.",
+      "button": "Get the free planner"
+    },
+    {
+      "id": "busy-book-pages",
+      "name": "Busy Book Starter Pages",
+      "price": "Free",
+      "free": true,
+      "url": "https://shop.beacons.ai/thelittlenestblog/c2b1f279-1eaf-46a2-8b67-476431955f21",
+      "image": "https://cdn.beacons.ai/user_content/0xRAZl90FlZYRyAESG04etoT5vF2/referenced_images/6bbdb556-d023-4609-b0a3-1788c6971437__store__product-image__c2b1f279-1eaf-46a2-8b67-476431955f21__5bbc47ff-8dea-4905-97f6-105b9826d3bd.webp",
+      "blurb": "Color, shape, counting and big-and-small pages with large cut-out pieces, for quiet play in waiting rooms, restaurants and car rides.",
+      "button": "Get the free pages"
+    }
+  ]
 }

@@ -109,7 +109,9 @@ The hour before the meal is often the hardest part. Everyone is busy, the kitche
 
 **Give them a table job.** A wipeable [silicone placemat](https://link.amazon/B0gpqS4RA) can be their own special spot, and setting it out is a job they can own. It also saves the host's good tablecloth.
 
-If you would like printable toddler meal ideas and simple plate guides for busy days, join Nest Notes below to get free printables first. Our Little Bites meal plans are on the way.
+And once the pie is gone, Christmas is next. If you want a calm way to fill the waiting days, my Christmas Toddler Activity Book has one simple, five-minute page for each quiet moment.
+
+{{product:christmas-activity-book}}
 
 ## Shop the list
 
