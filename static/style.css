@@ -280,8 +280,8 @@ h1, h2, h3 { font-family: var(--head); font-weight: 400; line-height: 1.15; lett
 .prose .product .btn { color: #fff; text-decoration: none; }
 .prose .product .btn--sage { color: #1f3326; }
 .product__price { font: 600 1rem/1 var(--head); letter-spacing: .04em; }
-.shop-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr)); gap: 1.4rem; margin-bottom: 3rem; }
-.product--tile { grid-template-columns: 1fr; align-items: start; margin: 0; background: var(--paper); padding: 1rem 1rem 1.3rem; }
+.shop-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 240px), 1fr)); gap: 1.4rem; margin-bottom: 3rem; }
+.product--tile { grid-template-columns: 1fr; align-items: start; margin: 0; max-width: 360px; background: var(--paper); padding: 1rem 1rem 1.3rem; }
 .free .product--tile { background: var(--paper); }
 @media (max-width: 600px) {
   .product { grid-template-columns: 1fr; }
