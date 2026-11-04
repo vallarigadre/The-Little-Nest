@@ -29,37 +29,37 @@ The list below fills the gaps with supplies that are sturdy, simple and easy for
 
 ### 1. A low shelf
 
-A shelf at your toddler's height is the heart of a tot school corner. It lets them see their choices, pick an activity and put it back. A small one like the [OOOK Montessori 2-tier toy shelf](https://www.amazon.com/dp/B0D1V1Y5LM?tag=creativedi03c-20) is plenty. Keep just three or four activities out at once and rotate them weekly. Anchor any furniture to the wall.
+A shelf at your toddler's height is the heart of a tot school corner. It lets them see their choices, pick an activity and put it back. A small one like the [OOOK Montessori 2-tier toy shelf](https://link.amazon/B02q1abUV) is plenty. Keep just three or four activities out at once and rotate them weekly. Anchor any furniture to the wall.
 
 ### 2. Trays
 
-Trays show your toddler where each activity lives and keep the pieces together. [Montessori wooden trays with handles](https://www.amazon.com/dp/B09X4896T3?tag=creativedi03c-20) come in three sizes, which covers most activities. A baking sheet works in a pinch.
+Trays show your toddler where each activity lives and keep the pieces together. [Montessori wooden trays with handles](https://link.amazon/B07ysofk3) come in three sizes, which covers most activities. A baking sheet works in a pinch.
 
 ### 3. A small table and chair
 
-Many toddlers are happy on the floor, but a table at the right height makes art and puzzles easier. A simple wooden set like this [toddler table and two chairs](https://www.amazon.com/dp/B0GWHFS49Q?tag=creativedi03c-20) fits most corners.
+Many toddlers are happy on the floor, but a table at the right height makes art and puzzles easier. A simple wooden set like this [toddler table and two chairs](https://link.amazon/B04lKgOJm) fits most corners.
 
 ![A small wooden toddler table and chair beside a low shelf with three wooden trays in a calm, sunlit corner](/images/tot-school-supplies-list-2.jpg)
 
 ### 4. Chunky crayons
 
-For coloring, tracing and art days. [Crayola My First Palm Grip Crayons](https://www.amazon.com/dp/B0197UCD1M?tag=creativedi03c-20) are designed for a toddler's fist grip and don't snap easily.
+For coloring, tracing and art days. [Crayola My First Palm Grip Crayons](https://link.amazon/B0gK1swJe) are designed for a toddler's fist grip and don't snap easily.
 
 ### 5. Something to sort
 
-Sorting by color and size is one of the most useful early skills. The [Learning Resources Three Bear Family Sorting Bowls](https://www.amazon.com/dp/B0006PKZ22?tag=creativedi03c-20) are bright, sturdy bowls you can use for color sorting with almost anything. Large pom poms, like these [2 inch pom poms](https://www.amazon.com/dp/B0819932HZ?tag=creativedi03c-20), are a soft, colorful filler. Pom poms are not toys on their own, so use them only during supervised activities.
+Sorting by color and size is one of the most useful early skills. The [Learning Resources Three Bear Family Sorting Bowls](https://link.amazon/B0d4KLLuX) are bright, sturdy bowls you can use for color sorting with almost anything. Large pom poms, like these [2 inch pom poms](https://link.amazon/B09pUcCzX), are a soft, colorful filler. Pom poms are not toys on their own, so use them only during supervised activities.
 
 ### 6. Scoops and tongs
 
-Fine motor tools turn sorting into hand-strengthening practice. The [Learning Resources Handy Scoopers and Helping Hands fine motor set](https://www.amazon.com/dp/B087LS874D?tag=creativedi03c-20) includes easy squeeze scoopers and tweezers, labeled ages 3 and up. With younger toddlers, start with a big spoon or measuring cup.
+Fine motor tools turn sorting into hand-strengthening practice. The [Learning Resources Handy Scoopers and Helping Hands fine motor set](https://link.amazon/B08Bcb8dW) includes easy squeeze scoopers and tweezers, labeled ages 3 and up. With younger toddlers, start with a big spoon or measuring cup.
 
 ### 7. A shape sorter or simple puzzle
 
-A classic like the [Melissa & Doug Shape Sorting Cube](https://www.amazon.com/dp/B00005RF5G?tag=creativedi03c-20) teaches shapes, problem solving and patience, and it lasts for years.
+A classic like the [Melissa & Doug Shape Sorting Cube](https://link.amazon/B08I2owMB) teaches shapes, problem solving and patience, and it lasts for years.
 
 ### 8. A laminator (optional, but handy)
 
-If you print activity pages or cards, a small laminator like the [Scotch TL902VP Thermal Laminator](https://www.amazon.com/dp/B008587M0K?tag=creativedi03c-20) makes them sturdy and reusable. It is also how you make a busy book.
+If you print activity pages or cards, a small laminator like the [Scotch TL902VP Thermal Laminator](https://link.amazon/B0dKJv4kC) makes them sturdy and reusable. It is also how you make a busy book.
 
 Not sure what to do with all of it? My free Tot School Weekly Planner includes a supply checklist, a simple daily rhythm and 24 theme ideas, so every item on this list gets used.
 
@@ -83,15 +83,15 @@ Not sure what to do with all of it? My free Tot School Weekly Planner includes a
 
 ## Shop the list
 
-- [OOOK Montessori 2-tier toy shelf](https://www.amazon.com/dp/B0D1V1Y5LM?tag=creativedi03c-20): the heart of the corner.
-- [Montessori wooden trays with handles](https://www.amazon.com/dp/B09X4896T3?tag=creativedi03c-20): one tray, one activity.
-- [Toddler table and two chairs](https://www.amazon.com/dp/B0GWHFS49Q?tag=creativedi03c-20): a calm spot for art and puzzles.
-- [Crayola My First Palm Grip Crayons](https://www.amazon.com/dp/B0197UCD1M?tag=creativedi03c-20): made for little fists.
-- [Learning Resources Three Bear Family Sorting Bowls](https://www.amazon.com/dp/B0006PKZ22?tag=creativedi03c-20): color sorting with anything.
-- [2 inch pom poms](https://www.amazon.com/dp/B0819932HZ?tag=creativedi03c-20): a soft, colorful filler for supervised play.
-- [Learning Resources Handy Scoopers and Helping Hands set](https://www.amazon.com/dp/B087LS874D?tag=creativedi03c-20): fine motor tools.
-- [Melissa & Doug Shape Sorting Cube](https://www.amazon.com/dp/B00005RF5G?tag=creativedi03c-20): a classic that lasts.
-- [Scotch TL902VP Thermal Laminator](https://www.amazon.com/dp/B008587M0K?tag=creativedi03c-20): sturdy, reusable printables.
+- [OOOK Montessori 2-tier toy shelf](https://link.amazon/B02q1abUV): the heart of the corner.
+- [Montessori wooden trays with handles](https://link.amazon/B07ysofk3): one tray, one activity.
+- [Toddler table and two chairs](https://link.amazon/B04lKgOJm): a calm spot for art and puzzles.
+- [Crayola My First Palm Grip Crayons](https://link.amazon/B0gK1swJe): made for little fists.
+- [Learning Resources Three Bear Family Sorting Bowls](https://link.amazon/B0d4KLLuX): color sorting with anything.
+- [2 inch pom poms](https://link.amazon/B09pUcCzX): a soft, colorful filler for supervised play.
+- [Learning Resources Handy Scoopers and Helping Hands set](https://link.amazon/B08Bcb8dW): fine motor tools.
+- [Melissa & Doug Shape Sorting Cube](https://link.amazon/B08I2owMB): a classic that lasts.
+- [Scotch TL902VP Thermal Laminator](https://link.amazon/B0dKJv4kC): sturdy, reusable printables.
 
 ## Less stuff, more play
 
