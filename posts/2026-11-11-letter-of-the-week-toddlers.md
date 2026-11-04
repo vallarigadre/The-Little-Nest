@@ -57,23 +57,23 @@ Draw a big bubble letter on paper and let your toddler fill it with dots. A dot 
 
 ### Letter puzzles and blocks
 
-Wooden letters are wonderful to hold, trace and match. An uppercase puzzle like the [Hape Wooden Alphabet Puzzle](https://www.amazon.com/dp/B00QTNWLRM?tag=creativedi03c-20) lets your toddler find "their" letter each week. Big blocks like the [Melissa & Doug Jumbo ABC-123 Blocks](https://www.amazon.com/dp/B07VZWNC8L?tag=creativedi03c-20) are great for stacking and spotting letters at the same time.
+Wooden letters are wonderful to hold, trace and match. An uppercase puzzle like the [Hape Wooden Alphabet Puzzle](https://link.amazon/B0c4wWvI3) lets your toddler find "their" letter each week. Big blocks like the [Melissa & Doug Jumbo ABC-123 Blocks](https://www.amazon.com/dp/B07VZWNC8L?tag=creativedi03c-20) are great for stacking and spotting letters at the same time.
 
 ### Picture and word matching
 
-Older toddlers enjoy matching pictures to letters. The [Melissa & Doug See & Spell](https://www.amazon.com/dp/B0007Y4DLG?tag=creativedi03c-20) set has picture boards and letter pieces (labeled ages 4 and up, so save it for later or use it together with close help).
+Older toddlers enjoy matching pictures to letters. The [Melissa & Doug See & Spell](https://link.amazon/B09xlF5WN) set has picture boards and letter pieces (labeled ages 4 and up, so save it for later or use it together with close help).
 
 ### Scribble and trace
 
-Chunky [Crayola My First Palm Grip Crayons](https://www.amazon.com/dp/B0197UCD1M?tag=creativedi03c-20) are easy for small hands. Draw the letter big and let your toddler scribble over it, or trace it slowly with a finger first.
+Chunky [Crayola My First Palm Grip Crayons](https://link.amazon/B0hpPpw3N) are easy for small hands. Draw the letter big and let your toddler scribble over it, or trace it slowly with a finger first.
 
 ### Make letter cards that last
 
-If you print letter pages or picture cards, a small laminator like the [Scotch TL902VP Thermal Laminator](https://www.amazon.com/dp/B008587M0K?tag=creativedi03c-20) makes them sturdy enough for little hands, and you can reuse them with dry-erase markers.
+If you print letter pages or picture cards, a small laminator like the [Scotch TL902VP Thermal Laminator](https://link.amazon/B0b0nBQPR) makes them sturdy enough for little hands, and you can reuse them with dry-erase markers.
 
 ## Books that make letters fun
 
-Reading is the heart of letter of the week. A classic like [Chicka Chicka Boom Boom](https://www.amazon.com/dp/1442450703?tag=creativedi03c-20) turns the whole alphabet into a rhyme your toddler will want to hear again and again. Each week, also borrow a library book about something that starts with your letter: apples for A, bears for B, cats for C.
+Reading is the heart of letter of the week. A classic like [Chicka Chicka Boom Boom](https://link.amazon/B0aPqKtRe) turns the whole alphabet into a rhyme your toddler will want to hear again and again. Each week, also borrow a library book about something that starts with your letter: apples for A, bears for B, cats for C.
 
 Want to plan your letters and themes in one place? My free Tot School Weekly Planner has a simple Monday to Friday rhythm, a sample week and 24 theme ideas you can pair with any letter.
 
@@ -90,13 +90,13 @@ Want to plan your letters and themes in one place? My free Tot School Weekly Pla
 
 ## Shop the list
 
-- [Chicka Chicka Boom Boom board book](https://www.amazon.com/dp/1442450703?tag=creativedi03c-20): the alphabet as a rhyme.
-- [Hape Wooden Alphabet Puzzle](https://www.amazon.com/dp/B00QTNWLRM?tag=creativedi03c-20): find this week's letter.
+- [Chicka Chicka Boom Boom board book](https://link.amazon/B0aPqKtRe): the alphabet as a rhyme.
+- [Hape Wooden Alphabet Puzzle](https://link.amazon/B0c4wWvI3): find this week's letter.
 - [Melissa & Doug Jumbo ABC-123 Blocks](https://www.amazon.com/dp/B07VZWNC8L?tag=creativedi03c-20): stacking and letter spotting.
 - [Crayola Washable Dot Markers Activity Set](https://www.amazon.com/dp/B09JHKYDX6?tag=creativedi03c-20): dot the letter.
-- [Crayola My First Palm Grip Crayons](https://www.amazon.com/dp/B0197UCD1M?tag=creativedi03c-20): easy scribbling and tracing.
-- [Melissa & Doug See & Spell](https://www.amazon.com/dp/B0007Y4DLG?tag=creativedi03c-20): picture and letter matching for later.
-- [Scotch TL902VP Thermal Laminator](https://www.amazon.com/dp/B008587M0K?tag=creativedi03c-20): make letter cards that last.
+- [Crayola My First Palm Grip Crayons](https://link.amazon/B0hpPpw3N): easy scribbling and tracing.
+- [Melissa & Doug See & Spell](https://link.amazon/B09xlF5WN): picture and letter matching for later.
+- [Scotch TL902VP Thermal Laminator](https://link.amazon/B0b0nBQPR): make letter cards that last.
 
 ## One letter at a time
 
