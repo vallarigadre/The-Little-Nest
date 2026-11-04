@@ -48,7 +48,7 @@ Rotate a few of these over the week. Each one uses simple things, and many use w
 
 ### Posting and dropping
 
-Toddlers this age love putting things into other things. An object permanence box, where a ball drops in and rolls back out, is a classic first Montessori activity. The [Montessori Mama object permanence box](https://link.amazon/B00rc4ClH) is a simple wooden one. You can also cut a slot in an oatmeal container lid and post large wooden coins or jar lids through it.
+Toddlers this age love putting things into other things. A coin box, where big wooden coins slide through a slot and disappear, is a classic first Montessori posting activity. The [Woodtoe Montessori coin box](https://www.amazon.com/dp/B0DC6FFX3R?tag=creativedi03c-20) is a simple wooden one. You can also cut a slot in an oatmeal container lid and post jar lids through it.
 
 ### Stacking and nesting
 
@@ -58,11 +58,11 @@ Stacking cups build hand control and early ideas about size. Soft [Lalo silicone
 
 ### Shapes and simple sorting
 
-Start with one shape at a time. A circle is easiest. A simple sorter like the [Melissa & Doug First Play Spin and Feed Shape Sorter](https://link.amazon/B04ebHTEK), made for ages 1 and up, is a gentle step up. A chunky knob puzzle like the [Melissa & Doug First Shapes Jumbo Knob Puzzle](https://link.amazon/B0b2qfIHl) is another favorite. Check the age label on any puzzle and pick the biggest knobs you can find.
+Start with one shape at a time. A circle is easiest. A simple wooden sorter with just a few shapes, like the [PlanToys First Shape Sorter](https://www.amazon.com/dp/B00BJKW7YM?tag=creativedi03c-20), is a gentle step up. A chunky knob puzzle like the [Melissa & Doug First Shapes Jumbo Knob Puzzle](https://link.amazon/B0b2qfIHl) is another favorite. Check the age label on any puzzle and pick the biggest knobs you can find.
 
 ### Scribbling
 
-Toddlers this age hold crayons in their fist, so chunky shapes are easier. [Crayola My First Palm Grip Crayons](https://link.amazon/B048Le4sP) are designed for that grip. Tape a big sheet of paper to the table so it does not slide, and let them scribble freely.
+Toddlers this age hold crayons in their fist, so chunky shapes are easier. Egg-shaped crayons like [Crayola My First Egg Crayons](https://www.amazon.com/dp/B00FY2P7KC?tag=creativedi03c-20) fit right in a small palm. Tape a big sheet of paper to the table so it does not slide, and let them scribble freely.
 
 ### Books and naming
 
@@ -84,7 +84,7 @@ Want this planned for you each week? My free Tot School Weekly Planner has a bla
 
 ## Setting up a tiny tot school corner
 
-You only need a little space. A low shelf at your toddler's height, with two or three activities on it, invites them to choose. Wooden trays, like these [Montessori wooden trays with handles](https://link.amazon/B00PhfJIU), show your toddler where each activity lives and make tidying up part of the routine.
+You only need a little space. A low shelf at your toddler's height, with two or three activities on it, invites them to choose. A simple wooden tray for each activity, or even a small baking sheet, shows your toddler where each activity lives and makes tidying up part of the routine.
 
 ![A low wooden shelf with three wooden trays holding a stacking toy, a shape sorter and a picture book in soft daylight](/images/tot-school-18-month-olds-3.jpg)
 
@@ -92,13 +92,12 @@ A quick safety note: at 18 months, everything still goes in the mouth. Keep anyt
 
 ## Shop the list
 
-- [Montessori Mama object permanence box](https://link.amazon/B00rc4ClH): the classic first posting toy.
+- [Woodtoe Montessori coin box](https://www.amazon.com/dp/B0DC6FFX3R?tag=creativedi03c-20): a classic first posting toy.
 - [Lalo silicone stacking cups](https://link.amazon/B03fdCO8Z): stacking, nesting and bath play.
-- [Melissa & Doug First Play Spin and Feed Shape Sorter](https://link.amazon/B04ebHTEK): a gentle first shape sorter for ages 1 and up.
+- [PlanToys First Shape Sorter](https://www.amazon.com/dp/B00BJKW7YM?tag=creativedi03c-20): a gentle first wooden shape sorter.
 - [Melissa & Doug First Shapes Jumbo Knob Puzzle](https://link.amazon/B0b2qfIHl): big knobs for little hands.
-- [Crayola My First Palm Grip Crayons](https://link.amazon/B048Le4sP): made for a toddler's fist grip.
+- [Crayola My First Egg Crayons](https://www.amazon.com/dp/B00FY2P7KC?tag=creativedi03c-20): easy to hold in a small fist.
 - [First 100 Words by Roger Priddy](https://link.amazon/B07WiknvV): pointing and naming practice.
-- [Montessori wooden trays with handles](https://link.amazon/B00PhfJIU): one tray, one activity.
 
 ## Small, slow and enough
 
