@@ -48,25 +48,25 @@ Rotate a few of these over the week. Each one uses simple things, and many use w
 
 ### Posting and dropping
 
-Toddlers this age love putting things into other things. An object permanence box, where a ball drops in and rolls back out, is a classic first Montessori activity. The [Montessori Mama object permanence box](https://www.amazon.com/dp/B0DJ22T459?tag=creativedi03c-20) is a simple wooden one. You can also cut a slot in an oatmeal container lid and post large wooden coins or jar lids through it.
+Toddlers this age love putting things into other things. An object permanence box, where a ball drops in and rolls back out, is a classic first Montessori activity. The [Montessori Mama object permanence box](https://link.amazon/B00rc4ClH) is a simple wooden one. You can also cut a slot in an oatmeal container lid and post large wooden coins or jar lids through it.
 
 ### Stacking and nesting
 
-Stacking cups build hand control and early ideas about size. Soft [Lalo silicone stacking cups](https://www.amazon.com/dp/B0DJC7WGMM?tag=creativedi03c-20) work for play and bath time. Show your toddler how to stack two, then let them knock the tower down. That is part of the fun.
+Stacking cups build hand control and early ideas about size. Soft [Lalo silicone stacking cups](https://link.amazon/B03fdCO8Z) work for play and bath time. Show your toddler how to stack two, then let them knock the tower down. That is part of the fun.
 
 ![A toddler's hands stacking sage and cream silicone cups on a cream rug beside a low wooden shelf](/images/tot-school-18-month-olds-2.jpg)
 
 ### Shapes and simple sorting
 
-Start with one shape at a time. A circle is easiest. A simple sorter like the [Melissa & Doug First Play Spin and Feed Shape Sorter](https://www.amazon.com/dp/B0876GKD8F?tag=creativedi03c-20), made for ages 1 and up, is a gentle step up. A chunky knob puzzle like the [Melissa & Doug First Shapes Jumbo Knob Puzzle](https://www.amazon.com/dp/B000EK59H0?tag=creativedi03c-20) is another favorite. Check the age label on any puzzle and pick the biggest knobs you can find.
+Start with one shape at a time. A circle is easiest. A simple sorter like the [Melissa & Doug First Play Spin and Feed Shape Sorter](https://link.amazon/B04ebHTEK), made for ages 1 and up, is a gentle step up. A chunky knob puzzle like the [Melissa & Doug First Shapes Jumbo Knob Puzzle](https://link.amazon/B0b2qfIHl) is another favorite. Check the age label on any puzzle and pick the biggest knobs you can find.
 
 ### Scribbling
 
-Toddlers this age hold crayons in their fist, so chunky shapes are easier. [Crayola My First Palm Grip Crayons](https://www.amazon.com/dp/B0197UCD1M?tag=creativedi03c-20) are designed for that grip. Tape a big sheet of paper to the table so it does not slide, and let them scribble freely.
+Toddlers this age hold crayons in their fist, so chunky shapes are easier. [Crayola My First Palm Grip Crayons](https://link.amazon/B048Le4sP) are designed for that grip. Tape a big sheet of paper to the table so it does not slide, and let them scribble freely.
 
 ### Books and naming
 
-Reading counts as tot school too. A sturdy book with real photos, like [First 100 Words by Roger Priddy](https://www.amazon.com/dp/0312510780?tag=creativedi03c-20), is great for pointing and naming. Ask "Where is the ball?" and celebrate when they point.
+Reading counts as tot school too. A sturdy book with real photos, like [First 100 Words by Roger Priddy](https://link.amazon/B07WiknvV), is great for pointing and naming. Ask "Where is the ball?" and celebrate when they point.
 
 ## A simple week for an 18 month old
 
@@ -84,7 +84,7 @@ Want this planned for you each week? My free Tot School Weekly Planner has a bla
 
 ## Setting up a tiny tot school corner
 
-You only need a little space. A low shelf at your toddler's height, with two or three activities on it, invites them to choose. Wooden trays, like these [Montessori wooden trays with handles](https://www.amazon.com/dp/B09X4896T3?tag=creativedi03c-20), show your toddler where each activity lives and make tidying up part of the routine.
+You only need a little space. A low shelf at your toddler's height, with two or three activities on it, invites them to choose. Wooden trays, like these [Montessori wooden trays with handles](https://link.amazon/B00PhfJIU), show your toddler where each activity lives and make tidying up part of the routine.
 
 ![A low wooden shelf with three wooden trays holding a stacking toy, a shape sorter and a picture book in soft daylight](/images/tot-school-18-month-olds-3.jpg)
 
@@ -92,13 +92,13 @@ A quick safety note: at 18 months, everything still goes in the mouth. Keep anyt
 
 ## Shop the list
 
-- [Montessori Mama object permanence box](https://www.amazon.com/dp/B0DJ22T459?tag=creativedi03c-20): the classic first posting toy.
-- [Lalo silicone stacking cups](https://www.amazon.com/dp/B0DJC7WGMM?tag=creativedi03c-20): stacking, nesting and bath play.
-- [Melissa & Doug First Play Spin and Feed Shape Sorter](https://www.amazon.com/dp/B0876GKD8F?tag=creativedi03c-20): a gentle first shape sorter for ages 1 and up.
-- [Melissa & Doug First Shapes Jumbo Knob Puzzle](https://www.amazon.com/dp/B000EK59H0?tag=creativedi03c-20): big knobs for little hands.
-- [Crayola My First Palm Grip Crayons](https://www.amazon.com/dp/B0197UCD1M?tag=creativedi03c-20): made for a toddler's fist grip.
-- [First 100 Words by Roger Priddy](https://www.amazon.com/dp/0312510780?tag=creativedi03c-20): pointing and naming practice.
-- [Montessori wooden trays with handles](https://www.amazon.com/dp/B09X4896T3?tag=creativedi03c-20): one tray, one activity.
+- [Montessori Mama object permanence box](https://link.amazon/B00rc4ClH): the classic first posting toy.
+- [Lalo silicone stacking cups](https://link.amazon/B03fdCO8Z): stacking, nesting and bath play.
+- [Melissa & Doug First Play Spin and Feed Shape Sorter](https://link.amazon/B04ebHTEK): a gentle first shape sorter for ages 1 and up.
+- [Melissa & Doug First Shapes Jumbo Knob Puzzle](https://link.amazon/B0b2qfIHl): big knobs for little hands.
+- [Crayola My First Palm Grip Crayons](https://link.amazon/B048Le4sP): made for a toddler's fist grip.
+- [First 100 Words by Roger Priddy](https://link.amazon/B07WiknvV): pointing and naming practice.
+- [Montessori wooden trays with handles](https://link.amazon/B00PhfJIU): one tray, one activity.
 
 ## Small, slow and enough
 
