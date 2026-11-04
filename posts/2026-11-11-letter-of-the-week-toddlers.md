@@ -63,13 +63,13 @@ Wooden letters are wonderful to hold, trace and match. An uppercase puzzle like 
 
 Older toddlers enjoy matching pictures to letters. The [Melissa & Doug See & Spell](https://link.amazon/B09xlF5WN) set has picture boards and letter pieces (labeled ages 4 and up, so save it for later or use it together with close help).
 
-### Scribble and trace
+### Trace the letter
 
-Chunky [Crayola My First Palm Grip Crayons](https://link.amazon/B0hpPpw3N) are easy for small hands. Draw the letter big and let your toddler scribble over it, or trace it slowly with a finger first.
+Tracing with a finger comes long before tracing with a pencil. A wooden board with grooved letters, like the [Montessori & Me Wood Alphabet Tracing Board](https://www.amazon.com/dp/B088T8N464?tag=creativedi03c-20), lets your toddler run a finger along this week's letter (it is labeled 36 months and up, so it grows with them). You can also draw the letter big on paper and let them scribble over it.
 
 ### Make letter cards that last
 
-If you print letter pages or picture cards, a small laminator like the [Scotch TL902VP Thermal Laminator](https://link.amazon/B0b0nBQPR) makes them sturdy enough for little hands, and you can reuse them with dry-erase markers.
+If you print letter pages or picture cards, a small home laminator makes them sturdy enough for little hands, and you can reuse them with dry-erase markers.
 
 ## Books that make letters fun
 
@@ -94,9 +94,8 @@ Want to plan your letters and themes in one place? My free Tot School Weekly Pla
 - [Hape Wooden Alphabet Puzzle](https://link.amazon/B0c4wWvI3): find this week's letter.
 - [Melissa & Doug Jumbo ABC-123 Blocks](https://www.amazon.com/dp/B07VZWNC8L?tag=creativedi03c-20): stacking and letter spotting.
 - [Crayola Washable Dot Markers Activity Set](https://www.amazon.com/dp/B09JHKYDX6?tag=creativedi03c-20): dot the letter.
-- [Crayola My First Palm Grip Crayons](https://link.amazon/B0hpPpw3N): easy scribbling and tracing.
+- [Montessori & Me Wood Alphabet Tracing Board](https://www.amazon.com/dp/B088T8N464?tag=creativedi03c-20): finger tracing for older toddlers.
 - [Melissa & Doug See & Spell](https://link.amazon/B09xlF5WN): picture and letter matching for later.
-- [Scotch TL902VP Thermal Laminator](https://link.amazon/B0b0nBQPR): make letter cards that last.
 
 ## One letter at a time
 
