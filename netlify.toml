@@ -21,3 +21,11 @@
   [headers.values]
     X-Robots-Tag = "noindex, nofollow"
     Cache-Control = "no-store"
+
+# The site moved to Cloudflare Pages at thelittlenest.blog (Nov 2026).
+# Every old netlify.app address sends readers and Google to the same page on the new domain.
+[[redirects]]
+  from = "/*"
+  to = "https://thelittlenest.blog/:splat"
+  status = 301
+  force = true
