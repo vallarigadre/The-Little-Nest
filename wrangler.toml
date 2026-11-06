@@ -1,0 +1,8 @@
+name = "the-little-nest"
+pages_build_output_dir = "dist"
+compatibility_date = "2026-10-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "the-little-nest"
+database_id = "47d1187f-ee43-46c9-b456-06a69944270d"
