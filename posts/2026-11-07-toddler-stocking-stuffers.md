@@ -36,18 +36,18 @@ That's four things. It looks lovely in a stocking, it's easy on the budget, and 
 
 At this age, everything is about the senses. Young toddlers love to grab, shake, pull, open and close. Keep it simple, and make sure every single item is too big to fit in their mouth.
 
-- **A lift-the-flap Christmas book.** [Dear Santa, a lift-the-flap book by Rod Campbell](https://www.amazon.com/dp/1481472496?tag=creativedi03c-20) is a holiday twist on the classic "Dear Zoo," with a surprise behind every flap. Little ones love the repetition, and you'll probably know it by heart by Boxing Day.
-- **Wooden egg shakers.** A set of [WoodenEdu wooden egg shakers](https://www.amazon.com/dp/B0D1FLJZ3G?tag=creativedi03c-20) fits small hands just right. Shake them to Christmas songs, hide them in a basket, or roll them across the floor. Check the age label and size against your child before you buy.
-- **A play silk.** [Sarah's Silks mini playsilks](https://www.amazon.com/dp/B01J6OWWKG?tag=creativedi03c-20) are a splurge, but they get used for years. Pull one out of a tube or a tissue box, play peekaboo, or let it float down from above. Always supervise play with scarves, and never tie one around a child's neck.
-- **A first toothbrush of their own.** It sounds unexciting, but toddlers love having their very own things. A pack like [Little FootPrint kids bamboo toothbrushes](https://www.amazon.com/dp/B07MB8DWXV?tag=creativedi03c-20) gives you one for the stocking and spares for the rest of the year.
+- **A lift-the-flap Christmas book.** [Dear Santa, a lift-the-flap book by Rod Campbell](https://link.amazon/B02Pu7DzP) is a holiday twist on the classic "Dear Zoo," with a surprise behind every flap. Little ones love the repetition, and you'll probably know it by heart by Boxing Day.
+- **Wooden egg shakers.** A set of [WoodenEdu wooden egg shakers](https://link.amazon/B0bEKjzkY) fits small hands just right. Shake them to Christmas songs, hide them in a basket, or roll them across the floor. Check the age label and size against your child before you buy.
+- **A play silk.** [Sarah's Silks mini playsilks](https://link.amazon/B08Fx72XP) are a splurge, but they get used for years. Pull one out of a tube or a tissue box, play peekaboo, or let it float down from above. Always supervise play with scarves, and never tie one around a child's neck.
+- **A first toothbrush of their own.** It sounds unexciting, but toddlers love having their very own things. A pack like [Little FootPrint kids bamboo toothbrushes](https://link.amazon/B0eWnv5ID) gives you one for the stocking and spares for the rest of the year.
 
 ## Stocking stuffers for 2 year olds
 
 Two year olds are busy little people. They're starting to pretend, they love to name and sort things, and many are ready to make their first real marks with a crayon.
 
-- **A funny holiday board book.** [Bob and 6 More Christmas Stories by Sandra Boynton](https://www.amazon.com/dp/0689825684?tag=creativedi03c-20) is short, silly and very rereadable, which is exactly what you want in a stocking book.
-- **Wooden animals for pretend play.** A small set like the [Holztiger wild animals set of 4](https://www.amazon.com/dp/B0FNLY559L?tag=creativedi03c-20) is another splurge that lasts. Use them for animal sounds, a little Noah's ark in a shoebox, or a "zoo" made of blocks. Check the age label for your child.
-- **Chunky beeswax crayons.** [Stockmar beeswax block crayons in a tin](https://www.amazon.com/dp/B0007QJ7ZG?tag=creativedi03c-20) are flat blocks that are easy for small fists to hold, and they make lovely wide strokes of color. Check the age label, and keep crayon time at the table so they don't end up in mouths.
+- **A funny holiday board book.** [Bob and 6 More Christmas Stories by Sandra Boynton](https://link.amazon/B0coiR6Kt) is short, silly and very rereadable, which is exactly what you want in a stocking book.
+- **Wooden animals for pretend play.** A small set like the [Holztiger wild animals set of 4](https://link.amazon/B03myJToq) is another splurge that lasts. Use them for animal sounds, a little Noah's ark in a shoebox, or a "zoo" made of blocks. Check the age label for your child.
+- **Chunky beeswax crayons.** [Stockmar beeswax block crayons in a tin](https://link.amazon/B07bNc3Ub) are flat blocks that are easy for small fists to hold, and they make lovely wide strokes of color. Check the age label, and keep crayon time at the table so they don't end up in mouths.
 - **Cozy socks with grips.** Something to wear is always useful, and a pair of grippy socks in a soft, plain color will get worn all winter.
 
 ![A low wooden table set with a sheet of paper, a small tin of beeswax block crayons and two wooden animals in soft morning light](/images/toddler-stocking-stuffers-3.jpg)
@@ -56,7 +56,7 @@ Two year olds are busy little people. They're starting to pretend, they love to 
 
 Three year olds can focus for longer, love "big kid" jobs and enjoy a little challenge. This is a great age for stocking stuffers that build fine motor skills.
 
-- **A lacing toy.** The [Kizh wooden lacing apple](https://www.amazon.com/dp/B07DRJ7957?tag=creativedi03c-20) has a little wooden worm on a string that winds in and out of the apple. It's quiet, compact and perfect for car rides and restaurants. Because it has a string, keep it for supervised play and store it out of reach of younger siblings.
+- **A lacing toy.** The [Kizh wooden lacing apple](https://link.amazon/B06Yr5NOF) has a little wooden worm on a string that winds in and out of the apple. It's quiet, compact and perfect for car rides and restaurants. Because it has a string, keep it for supervised play and store it out of reach of younger siblings.
 - **Their own crayons and a small notebook.** The beeswax block crayons above work beautifully at this age too. Add a plain notebook and you have a whole morning's worth of drawing.
 - **A real tool, child sized.** Three year olds love to help. A small dustpan and brush, a child-sized watering can or their own wooden spoon for baking can feel more exciting than any toy, because it means they get to join in.
 - **A printable activity book.** A few pages of tracing, matching and counting tucked into the stocking makes a calm, screen-free start to the day while the grown-ups make breakfast. (More on that below.)
@@ -92,14 +92,14 @@ Want a little something in the stocking that keeps them happily busy on Christma
 
 Here are all the picks in one place, sorted by age:
 
-- **12 to 18 months:** [Dear Santa, a lift-the-flap book by Rod Campbell](https://www.amazon.com/dp/1481472496?tag=creativedi03c-20)
-- **12 to 18 months:** [WoodenEdu wooden egg shakers](https://www.amazon.com/dp/B0D1FLJZ3G?tag=creativedi03c-20)
-- **12 to 18 months (splurge):** [Sarah's Silks mini playsilks](https://www.amazon.com/dp/B01J6OWWKG?tag=creativedi03c-20)
-- **All ages:** [Little FootPrint kids bamboo toothbrushes](https://www.amazon.com/dp/B07MB8DWXV?tag=creativedi03c-20)
-- **2 year olds:** [Bob and 6 More Christmas Stories by Sandra Boynton](https://www.amazon.com/dp/0689825684?tag=creativedi03c-20)
-- **2 year olds (splurge):** [Holztiger wild animals set of 4](https://www.amazon.com/dp/B0FNLY559L?tag=creativedi03c-20)
-- **2 and 3 year olds:** [Stockmar beeswax block crayons in a tin](https://www.amazon.com/dp/B0007QJ7ZG?tag=creativedi03c-20)
-- **3 year olds:** [Kizh wooden lacing apple](https://www.amazon.com/dp/B07DRJ7957?tag=creativedi03c-20)
+- **12 to 18 months:** [Dear Santa, a lift-the-flap book by Rod Campbell](https://link.amazon/B02Pu7DzP)
+- **12 to 18 months:** [WoodenEdu wooden egg shakers](https://link.amazon/B0bEKjzkY)
+- **12 to 18 months (splurge):** [Sarah's Silks mini playsilks](https://link.amazon/B08Fx72XP)
+- **All ages:** [Little FootPrint kids bamboo toothbrushes](https://link.amazon/B0eWnv5ID)
+- **2 year olds:** [Bob and 6 More Christmas Stories by Sandra Boynton](https://link.amazon/B0coiR6Kt)
+- **2 year olds (splurge):** [Holztiger wild animals set of 4](https://link.amazon/B03myJToq)
+- **2 and 3 year olds:** [Stockmar beeswax block crayons in a tin](https://link.amazon/B07bNc3Ub)
+- **3 year olds:** [Kizh wooden lacing apple](https://link.amazon/B06Yr5NOF)
 
 Order a little early this year so everything arrives in time, and always check the age label on the listing before you buy.
 
