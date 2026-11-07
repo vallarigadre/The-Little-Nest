@@ -2,7 +2,6 @@
 title: "Stocking stuffers for toddlers that aren't plastic clutter"
 subtitle: "Small, simple, mostly natural ideas for 1 to 3 year olds, sorted by age, with a quick safety check before you fill the stocking."
 date: 2026-11-07
-draft: true
 category: Play
 description: "Non-plastic stocking stuffers for toddlers by age: simple wooden, silk and book ideas for 1 to 3 year olds, plus free fillers and a quick safety check."
 tags: [stocking stuffers for toddlers, non plastic stocking stuffers, montessori stocking stuffers, toddler christmas gifts, wooden toys for toddlers, minimalist christmas]
