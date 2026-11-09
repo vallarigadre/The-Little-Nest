@@ -2,7 +2,6 @@
 title: "Magnetic toys for toddlers: a Christmas gift guide by age"
 subtitle: "The best magnetic toys for 1, 2 and 3 year olds, matched to their age labels, plus a simple magnet safety check before you wrap."
 date: 2026-11-08
-draft: true
 category: Play
 description: "The best magnetic toys for toddlers by age: magnetic blocks, drawing boards, fishing games and magnet tiles for 1 to 3 year olds, plus magnet safety tips."
 tags: [magnetic toys for toddlers, toddler christmas gifts, magnetic tiles for toddlers, magnetic drawing board, gifts for 2 year olds, gifts for 3 year olds]
@@ -45,9 +44,9 @@ Supervise play, especially the first few times, and do a quick count when you ti
 
 The best magnetic toys for this age are big, chunky and simple, with magnets hidden safely inside.
 
-**Wooden magnetic blocks (the splurge).** These are the kind of blocks you buy once and keep for years. Each smooth wooden block has magnets sealed inside, so little ones can stack them at funny angles and watch them hold. The [Tegu 42 piece magnetic wooden block set](https://www.amazon.com/dp/B00GJC4HC0?tag=creativedi03c-20) is labeled for ages 1 and up and comes in soft tints that look lovely on a shelf. Start by putting out just a handful of blocks at a time.
+**Wooden magnetic blocks (the splurge).** These are the kind of blocks you buy once and keep for years. Each smooth wooden block has magnets sealed inside, so little ones can stack them at funny angles and watch them hold. The [Tegu 42 piece magnetic wooden block set](https://link.amazon/B054scS9D) is labeled for ages 1 and up and comes in soft tints that look lovely on a shelf. Start by putting out just a handful of blocks at a time.
 
-**A magnetic drawing board.** A doodle board lets young toddlers "draw" without crayons on the walls, and one swipe wipes it clean. The [Kikidex magnetic drawing board](https://www.amazon.com/dp/B0BJD2QS5H?tag=creativedi03c-20) is made for toddlers ages 1 to 3. Many families keep one in the diaper bag for waiting rooms and restaurants. The pen is attached with a cord, so use it with you nearby and put it away after play.
+**A magnetic drawing board.** A doodle board lets young toddlers "draw" without crayons on the walls, and one swipe wipes it clean. The [Kikidex magnetic drawing board](https://link.amazon/B09hWvv8m) is made for toddlers ages 1 to 3. Many families keep one in the diaper bag for waiting rooms and restaurants. The pen is attached with a cord, so use it with you nearby and put it away after play.
 
 ![Small hands stacking natural wooden magnetic blocks on a cream linen rug in soft morning light](/images/magnetic-toys-toddlers-gift-guide-2.jpg)
 
@@ -55,7 +54,7 @@ The best magnetic toys for this age are big, chunky and simple, with magnets hid
 
 Two year olds love a challenge they can almost, but not quite, do on their own. Magnet games that need a steady hand are perfect.
 
-**A wooden magnetic fishing game.** Catching a wooden fish with a magnetic "rod" takes concentration, and the cheer when it lifts out is the best part. The [edutree wooden magnetic fishing game](https://www.amazon.com/dp/B0CBPDSG3N?tag=creativedi03c-20) is made for toddlers ages 1 to 3. Play it together first: name the colors, count the fish into a bowl, then let your toddler take over.
+**A wooden magnetic fishing game.** Catching a wooden fish with a magnetic "rod" takes concentration, and the cheer when it lifts out is the best part. The [edutree wooden magnetic fishing game](https://link.amazon/B0eAIerYb) is made for toddlers ages 1 to 3. Play it together first: name the colors, count the fish into a bowl, then let your toddler take over.
 
 **Keep building with the blocks.** If you chose the wooden magnetic blocks for a younger child, this is the age they really start to shine. Two year olds begin making towers, bridges and "cars" that hold together, which feels very grown up.
 
@@ -65,15 +64,15 @@ A simple way to use magnet toys at this age is a small "magnet basket" on a low 
 
 At 3, many more magnetic toys open up, including the magnet tiles everyone is talking about. Always double check the label for the exact age on any listing before you buy.
 
-**Magnet tiles.** If you only buy one big gift for a 3 year old, magnetic tiles are hard to beat. Flat shapes for patterns, tall towers, houses for little animals: they become whatever your child imagines that day. The [PicassoTiles 100 piece magnetic tiles](https://www.amazon.com/dp/B00AU56C5W?tag=creativedi03c-20) are clear, colorful tiles labeled for ages 3 and up. Set them on a window or by a lamp and the colors glow.
+**Magnet tiles.** If you only buy one big gift for a 3 year old, magnetic tiles are hard to beat. Flat shapes for patterns, tall towers, houses for little animals: they become whatever your child imagines that day. The [PicassoTiles 100 piece magnetic tiles](https://link.amazon/B0daVts3l) are clear, colorful tiles labeled for ages 3 and up. Set them on a window or by a lamp and the colors glow.
 
-**A magnetic tracing board.** This one is a quiet favorite for little hands. Tracing with the stylus feels satisfying in a way paper doesn't, and there's nothing to sharpen or wipe up. The [Playskool Magnatab numbers and shapes board](https://www.amazon.com/dp/B09R9Q4VMS?tag=creativedi03c-20) is labeled for ages 3 and up, and it's easy to toss in a bag for car rides.
+**A magnetic tracing board.** This one is a quiet favorite for little hands. Tracing with the stylus feels satisfying in a way paper doesn't, and there's nothing to sharpen or wipe up. The [Playskool Magnatab numbers and shapes board](https://link.amazon/B0hRjz1Pk) is labeled for ages 3 and up, and it's easy to toss in a bag for car rides.
 
 ![A child's hand using a stylus on a magnetic tracing board on a wooden table, with a mug and a sprig of pine nearby](/images/magnetic-toys-toddlers-gift-guide-3.jpg)
 
-**Magnetic letters for the fridge.** Three year olds love being in the kitchen with you, and magnetic letters keep them busy while you cook. The [LeapFrog Fridge Phonics magnetic letter set](https://www.amazon.com/dp/B00JLHVX36?tag=creativedi03c-20) is a classic set of fridge letters for little learners. Keep it light and playful: find the first letter of their name, or the letter for "cat."
+**Magnetic letters for the fridge.** Three year olds love being in the kitchen with you, and magnetic letters keep them busy while you cook. The [LeapFrog Fridge Phonics magnetic letter set](https://link.amazon/B05nEW6XU) is a classic set of fridge letters for little learners. Keep it light and playful: find the first letter of their name, or the letter for "cat."
 
-**Magnetic dress-up play.** Mix and match outfits, then tell a story about where the doll is going. The [Melissa & Doug Julia magnetic dress-up wooden doll](https://www.amazon.com/dp/B01B1UE4Q8?tag=creativedi03c-20) comes with more than 25 pieces. It's a sweet, quiet gift for a 3 year old who loves pretend play.
+**Magnetic dress-up play.** Mix and match outfits, then tell a story about where the doll is going. The [Melissa & Doug Julia magnetic dress-up wooden doll](https://link.amazon/B03frp8Z7) comes with more than 25 pieces. It's a sweet, quiet gift for a 3 year old who loves pretend play.
 
 Want a small, screen-free gift to tuck in beside the magnet toys? My Christmas Toddler Activity Book is full of simple tracing, matching and counting pages, one task per page, and you can print it the minute you buy it.
 
@@ -83,13 +82,13 @@ Want a small, screen-free gift to tuck in beside the magnet toys? My Christmas T
 
 Here are all the picks in one place, sorted by age:
 
-- **Ages 1 and up (splurge):** [Tegu 42 piece magnetic wooden block set](https://www.amazon.com/dp/B00GJC4HC0?tag=creativedi03c-20)
-- **Ages 1 to 3:** [Kikidex magnetic drawing board](https://www.amazon.com/dp/B0BJD2QS5H?tag=creativedi03c-20)
-- **Ages 1 to 3:** [edutree wooden magnetic fishing game](https://www.amazon.com/dp/B0CBPDSG3N?tag=creativedi03c-20)
-- **Ages 3 and up:** [PicassoTiles 100 piece magnetic tiles](https://www.amazon.com/dp/B00AU56C5W?tag=creativedi03c-20)
-- **Ages 3 and up:** [Playskool Magnatab numbers and shapes board](https://www.amazon.com/dp/B09R9Q4VMS?tag=creativedi03c-20)
-- **3 year olds:** [LeapFrog Fridge Phonics magnetic letter set](https://www.amazon.com/dp/B00JLHVX36?tag=creativedi03c-20)
-- **3 year olds:** [Melissa & Doug Julia magnetic dress-up wooden doll](https://www.amazon.com/dp/B01B1UE4Q8?tag=creativedi03c-20)
+- **Ages 1 and up (splurge):** [Tegu 42 piece magnetic wooden block set](https://link.amazon/B054scS9D)
+- **Ages 1 to 3:** [Kikidex magnetic drawing board](https://link.amazon/B09hWvv8m)
+- **Ages 1 to 3:** [edutree wooden magnetic fishing game](https://link.amazon/B0eAIerYb)
+- **Ages 3 and up:** [PicassoTiles 100 piece magnetic tiles](https://link.amazon/B0daVts3l)
+- **Ages 3 and up:** [Playskool Magnatab numbers and shapes board](https://link.amazon/B0hRjz1Pk)
+- **3 year olds:** [LeapFrog Fridge Phonics magnetic letter set](https://link.amazon/B05nEW6XU)
+- **3 year olds:** [Melissa & Doug Julia magnetic dress-up wooden doll](https://link.amazon/B03frp8Z7)
 
 Always check the age label on the listing before you buy, keep 3+ toys away from younger siblings, and supervise play with anything that has magnets or small parts.
 
