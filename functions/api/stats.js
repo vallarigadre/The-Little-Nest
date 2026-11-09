@@ -3,7 +3,7 @@
 // Returns the same shape the Netlify version did, so the admin page works unchanged.
 import { ensureTables } from "./_db.js";
 
-const BUILT_IN_HASH = "495aa6b781f1b327b63f93198c6631b4e9a4ca452aba6996a563da1aec778bd8";
+const BUILT_IN_HASH = "cf989e6d57a47b00c6d5b23798182ea3a0a112b7493df9f53cfdb6ba4352cf45";
 async function sha(s) {
   const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(s));
   return [...new Uint8Array(buf)].map((x) => x.toString(16).padStart(2, "0")).join("");
