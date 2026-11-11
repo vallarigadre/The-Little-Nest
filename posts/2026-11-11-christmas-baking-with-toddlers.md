@@ -34,9 +34,9 @@ A few things make toddler baking feel easier:
 
 Montessori-style baking is really about access: when a toddler can see the counter and hold tools sized for their hands, they can do a lot more on their own.
 
-A sturdy kitchen helper tower lets them stand safely at counter height instead of climbing on a chair. This [Wood and Hearts foldable toddler tower](https://www.amazon.com/dp/B0CDHFD4KL?tag=creativedi03c-20) folds down into a little desk when baking is done, which is handy in a small kitchen. Stay right beside them whenever they are up there, and keep the tower well away from the stove.
+A sturdy kitchen helper tower lets them stand safely at counter height instead of climbing on a chair. This [Wood and Hearts foldable toddler tower](https://link.amazon/B0dXUqBYb) folds down into a little desk when baking is done, which is handy in a small kitchen. Stay right beside them whenever they are up there, and keep the tower well away from the stove.
 
-Next, give them their own tools. An apron like this [CRJHNS kids apron and chef hat set](https://www.amazon.com/dp/B07MJYXCKJ?tag=creativedi03c-20) makes baking feel like a special job, and a short [Linden Sweden children's wooden rolling pin](https://www.amazon.com/dp/B00BP3ZL0A?tag=creativedi03c-20) is easy for small hands to grip. Wide, steady bowls help too: [mixing bowls with handles and a non-slip base](https://www.amazon.com/dp/B0DNWTM8X8?tag=creativedi03c-20) stay put while they stir and have a spout for pouring batter. If your toddler loves the kitchen, a small set like the [Tovla Jr. kids real cooking tools set](https://www.amazon.com/dp/B097QBWBST?tag=creativedi03c-20) gives them a little whisk and spatula of their own.
+Next, give them their own tools. An apron like this [CRJHNS kids apron and chef hat set](https://link.amazon/B0fO77Odi) makes baking feel like a special job, and a short [Linden Sweden children's wooden rolling pin](https://link.amazon/B08cMkIqw) is easy for small hands to grip. Wide, steady bowls help too: [mixing bowls with handles and a non-slip base](https://link.amazon/B093nKabl) stay put while they stir and have a spout for pouring batter. If your toddler loves the kitchen, a small set like the [Tovla Jr. kids real cooking tools set](https://link.amazon/B0aLZ8gXm) gives them a little whisk and spatula of their own.
 
 Finally, set out only what you need for this step. One bowl, one spoon and one ingredient at a time keeps the counter calm and helps your toddler know exactly what to do next.
 
@@ -77,7 +77,7 @@ These are simple on purpose. Each one has a clear job for your toddler, and none
 
 This is a lovely first baking project for younger toddlers, with just two main ingredients.
 
-1. Preheat the oven to 350°F and line a tray with a [USA Pan silicone baking mat](https://www.amazon.com/dp/B09RRZHQTT?tag=creativedi03c-20) or parchment.
+1. Preheat the oven to 350°F and line a tray with a [USA Pan silicone baking mat](https://link.amazon/B0gwOl6yj) or parchment.
 2. Let your toddler mash 2 ripe bananas in a bowl.
 3. Pour in about 1 cup of rolled oats and a pinch of cinnamon, then stir.
 4. Scoop small spoonfuls onto the tray and press them flat with a fork.
@@ -90,7 +90,7 @@ They are soft, naturally sweet from the banana and easy to hold. Skip add-ins li
 The classic, made toddler-friendly. You make the dough (your favorite sugar cookie recipe or a store-bought dough both work) and chill it. Your toddler does the fun part.
 
 1. Roll the dough out on a floured board and let your toddler roll a little more.
-2. Hand them a few big, simple cutters, like this [large Christmas cookie cutter set](https://www.amazon.com/dp/B0B7N9JK7C?tag=creativedi03c-20) with 4 inch trees, stars and gingerbread men. Big shapes are much easier to press and lift.
+2. Hand them a few big, simple cutters, like this [large Christmas cookie cutter set](https://link.amazon/B0gDjjtkW) with 4 inch trees, stars and gingerbread men. Big shapes are much easier to press and lift.
 3. You move the shapes onto the tray, then bake while your toddler washes their hands.
 4. Once the cookies are completely cool, let them decorate with a thin icing and soft sprinkles.
 
@@ -103,7 +103,7 @@ Keep hard candies and crushed candy canes off the toddler cookies. They can be a
 Mini muffins are just the right size for little hands, and spooning batter into cups is a job most 2 and 3 year olds love.
 
 1. Make your favorite gingerbread or spiced applesauce muffin batter. Your toddler can pour in the pre-measured dry ingredients and stir.
-2. Set out a [CAKETIME silicone mini muffin pan](https://www.amazon.com/dp/B0D3GYN6TS?tag=creativedi03c-20) and let them spoon the batter in. Silicone pops the muffins out easily.
+2. Set out a [CAKETIME silicone mini muffin pan](https://link.amazon/B04VyEQfM) and let them spoon the batter in. Silicone pops the muffins out easily.
 3. Bake according to your recipe (mini muffins usually need less time than full size), and cool before serving.
 
 If you use a recipe with honey, save those muffins for the grown-ups and older kids. Honey is not safe for babies under 1.
@@ -133,7 +133,7 @@ Baking is wonderful practical life work, and a few habits keep it safe:
 
 The waiting part is often the hardest for a toddler. A short book about baking makes the oven time feel like part of the fun.
 
-[Maisy Makes Gingerbread](https://www.amazon.com/dp/0763609102?tag=creativedi03c-20) by Lucy Cousins is a simple, cheerful story about baking and sharing, just right for little listeners. [The Gingerbread Man (First Stories)](https://www.amazon.com/dp/1529052289?tag=creativedi03c-20) from Campbell Books is a gentle first version of the classic tale, with a familiar chant toddlers love to repeat.
+[Maisy Makes Gingerbread](https://link.amazon/B0gGvNKVT) by Lucy Cousins is a simple, cheerful story about baking and sharing, just right for little listeners. [The Gingerbread Man (First Stories)](https://link.amazon/B01xjE1Si) from Campbell Books is a gentle first version of the classic tale, with a familiar chant toddlers love to repeat.
 
 After the story, a calm table activity can fill the rest of the wait while the treats cool.
 
@@ -143,16 +143,16 @@ Want something ready to grab for those in-between minutes? My Christmas Toddler 
 
 ## Shop the list
 
-- **[Wood and Hearts foldable toddler tower](https://www.amazon.com/dp/B0CDHFD4KL?tag=creativedi03c-20):** Lets your toddler stand safely at the counter, then folds into a little desk.
-- **[CRJHNS kids apron and chef hat set](https://www.amazon.com/dp/B07MJYXCKJ?tag=creativedi03c-20):** A cotton apron with a pocket and a chef hat for your little baker.
-- **[Linden Sweden children's wooden rolling pin](https://www.amazon.com/dp/B00BP3ZL0A?tag=creativedi03c-20):** A short rolling pin with easy-to-hold handles.
-- **[Mixing bowls with handles and a non-slip base](https://www.amazon.com/dp/B0DNWTM8X8?tag=creativedi03c-20):** Steady bowls with a pour spout, set of 2.
-- **[Tovla Jr. kids real cooking tools set](https://www.amazon.com/dp/B097QBWBST?tag=creativedi03c-20):** Real, kid-sized kitchen tools for stirring and whisking.
-- **[USA Pan silicone baking mat](https://www.amazon.com/dp/B09RRZHQTT?tag=creativedi03c-20):** Reusable half sheet mats, set of 2, so cookies lift off easily.
-- **[Large Christmas cookie cutter set](https://www.amazon.com/dp/B0B7N9JK7C?tag=creativedi03c-20):** Six big 4 inch holiday shapes that are easy for toddlers to press.
-- **[CAKETIME silicone mini muffin pan](https://www.amazon.com/dp/B0D3GYN6TS?tag=creativedi03c-20):** A 24 cup mini muffin pan for little treats.
-- **[Maisy Makes Gingerbread](https://www.amazon.com/dp/0763609102?tag=creativedi03c-20):** A sweet baking story by Lucy Cousins.
-- **[The Gingerbread Man (First Stories)](https://www.amazon.com/dp/1529052289?tag=creativedi03c-20):** A gentle first telling of the classic tale.
+- **[Wood and Hearts foldable toddler tower](https://link.amazon/B0dXUqBYb):** Lets your toddler stand safely at the counter, then folds into a little desk.
+- **[CRJHNS kids apron and chef hat set](https://link.amazon/B0fO77Odi):** A cotton apron with a pocket and a chef hat for your little baker.
+- **[Linden Sweden children's wooden rolling pin](https://link.amazon/B08cMkIqw):** A short rolling pin with easy-to-hold handles.
+- **[Mixing bowls with handles and a non-slip base](https://link.amazon/B093nKabl):** Steady bowls with a pour spout, set of 2.
+- **[Tovla Jr. kids real cooking tools set](https://link.amazon/B0aLZ8gXm):** Real, kid-sized kitchen tools for stirring and whisking.
+- **[USA Pan silicone baking mat](https://link.amazon/B0gwOl6yj):** Reusable half sheet mats, set of 2, so cookies lift off easily.
+- **[Large Christmas cookie cutter set](https://link.amazon/B0gDjjtkW):** Six big 4 inch holiday shapes that are easy for toddlers to press.
+- **[CAKETIME silicone mini muffin pan](https://link.amazon/B04VyEQfM):** A 24 cup mini muffin pan for little treats.
+- **[Maisy Makes Gingerbread](https://link.amazon/B0gGvNKVT):** A sweet baking story by Lucy Cousins.
+- **[The Gingerbread Man (First Stories)](https://link.amazon/B01xjE1Si):** A gentle first telling of the classic tale.
 
 ## A little flour is part of the magic
 
