@@ -53,11 +53,11 @@ Mix these into your week. All of them work for any letter.
 
 ### Dot the letter
 
-Draw a big bubble letter on paper and let your toddler fill it with dots. A dot marker set like the [Crayola Washable Dot Markers Activity Set](https://www.amazon.com/dp/B09JHKYDX6?tag=creativedi03c-20) is easy to grip and comes with coloring pages (the label says ages 3 and up, so stay close with younger toddlers). For 2 year olds, round dot stickers are a lovely fine motor alternative.
+Draw a big bubble letter on paper and let your toddler fill it with dots. A dot marker set like the [Crayola Washable Dot Markers Activity Set](https://link.amazon/B0eLWqAtC) is easy to grip and comes with coloring pages (the label says ages 3 and up, so stay close with younger toddlers). For 2 year olds, round dot stickers are a lovely fine motor alternative.
 
 ### Letter puzzles and blocks
 
-Wooden letters are wonderful to hold, trace and match. An uppercase puzzle like the [Hape Wooden Alphabet Puzzle](https://link.amazon/B0c4wWvI3) lets your toddler find "their" letter each week. Big blocks like the [Melissa & Doug Jumbo ABC-123 Blocks](https://www.amazon.com/dp/B07VZWNC8L?tag=creativedi03c-20) are great for stacking and spotting letters at the same time.
+Wooden letters are wonderful to hold, trace and match. An uppercase puzzle like the [Hape Wooden Alphabet Puzzle](https://link.amazon/B0c4wWvI3) lets your toddler find "their" letter each week. Big blocks like the [Melissa & Doug Jumbo ABC-123 Blocks](https://link.amazon/B0df4JDvn) are great for stacking and spotting letters at the same time.
 
 ### Picture and word matching
 
@@ -65,7 +65,7 @@ Older toddlers enjoy matching pictures to letters. The [Melissa & Doug See & Spe
 
 ### Trace the letter
 
-Tracing with a finger comes long before tracing with a pencil. A wooden board with grooved letters, like the [Montessori & Me Wood Alphabet Tracing Board](https://www.amazon.com/dp/B088T8N464?tag=creativedi03c-20), lets your toddler run a finger along this week's letter (it is labeled 36 months and up, so it grows with them). You can also draw the letter big on paper and let them scribble over it.
+Tracing with a finger comes long before tracing with a pencil. A wooden board with grooved letters, like the [Montessori & Me Wood Alphabet Tracing Board](https://link.amazon/B0gqaHXLe), lets your toddler run a finger along this week's letter (it is labeled 36 months and up, so it grows with them). You can also draw the letter big on paper and let them scribble over it.
 
 ### Make letter cards that last
 
@@ -92,9 +92,9 @@ Want to plan your letters and themes in one place? My free Tot School Weekly Pla
 
 - [Chicka Chicka Boom Boom board book](https://link.amazon/B0aPqKtRe): the alphabet as a rhyme.
 - [Hape Wooden Alphabet Puzzle](https://link.amazon/B0c4wWvI3): find this week's letter.
-- [Melissa & Doug Jumbo ABC-123 Blocks](https://www.amazon.com/dp/B07VZWNC8L?tag=creativedi03c-20): stacking and letter spotting.
-- [Crayola Washable Dot Markers Activity Set](https://www.amazon.com/dp/B09JHKYDX6?tag=creativedi03c-20): dot the letter.
-- [Montessori & Me Wood Alphabet Tracing Board](https://www.amazon.com/dp/B088T8N464?tag=creativedi03c-20): finger tracing for older toddlers.
+- [Melissa & Doug Jumbo ABC-123 Blocks](https://link.amazon/B0df4JDvn): stacking and letter spotting.
+- [Crayola Washable Dot Markers Activity Set](https://link.amazon/B0eLWqAtC): dot the letter.
+- [Montessori & Me Wood Alphabet Tracing Board](https://link.amazon/B0gqaHXLe): finger tracing for older toddlers.
 - [Melissa & Doug See & Spell](https://link.amazon/B09xlF5WN): picture and letter matching for later.
 
 ## One letter at a time
