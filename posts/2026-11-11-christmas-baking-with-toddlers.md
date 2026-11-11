@@ -2,7 +2,6 @@
 title: "Christmas baking with a toddler: easy, toddler-safe holiday treats"
 subtitle: "Four simple holiday treats, what little hands can do at each age and how to keep the kitchen calm, safe and (mostly) flour-free."
 date: 2026-11-11
-draft: true
 category: Meals
 description: "Easy Christmas baking with a toddler: 4 toddler-safe holiday treats, kitchen jobs by age and simple safety tips for 1 to 4 year olds."
 tags: [christmas baking with toddlers, toddler christmas cookies, baking with toddlers, toddler holiday treats, montessori kitchen, cooking with kids]
