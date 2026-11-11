@@ -392,7 +392,7 @@ function archivePage(posts) {
     (byMonth[k] = byMonth[k] || []).push(p);
   });
   const body = `<section class="wrap narrow archive"><h1>All stories</h1>
-    ${Object.entries(byMonth).map(([m, list]) => `<h2>${m}</h2><ul>${list.map((p) => `<li><a href="${p.url}">${esc(p.title)}</a><span>${esc(p.section.name)}</span></li>`).join("")}</ul>`).join("") || "<p>No stories yet.</p>"}
+    ${Object.entries(byMonth).map(([m, list]) => `<h2>${m}</h2><ul>${list.map((p) => `<li><a class="arch" href="${p.url}">${cover(p, "xs")}<span class="arch__text"><span class="arch__title">${esc(p.title)}</span><span class="arch__dek">${esc(p.subtitle || p.description || "")}</span><span class="arch__section">${esc(p.section.name)}</span></span></a></li>`).join("")}</ul>`).join("") || "<p>No stories yet.</p>"}
   </section>`;
   write("archive/index.html", layout({ title: "All stories", path: "/archive/", body }));
 }
