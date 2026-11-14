@@ -37,25 +37,25 @@ A few things make a tradition toddler-friendly:
 
 ### Everyday December rituals
 
-1. **A gentle advent countdown.** Instead of a chocolate a day, fill a reusable calendar with tiny folded notes: "Dance to one Christmas song," "Call Grandma," "Read a winter book," "Put a sticker on the window." A [flangairy reusable wooden advent calendar](https://www.amazon.com/dp/B0FHB3459M?tag=creativedi03c-20) with little drawers is lovely for this, because opening a drawer is half the fun at this age. For children under 3, keep small toys, candy and anything that could fit through a toilet paper tube out of the drawers, since those are choking hazards.
+1. **A gentle advent countdown.** Instead of a chocolate a day, fill a reusable calendar with tiny folded notes: "Dance to one Christmas song," "Call Grandma," "Read a winter book," "Put a sticker on the window." A [flangairy reusable wooden advent calendar](https://link.amazon/B0asrSuVA) with little drawers is lovely for this, because opening a drawer is half the fun at this age. For children under 3, keep small toys, candy and anything that could fit through a toilet paper tube out of the drawers, since those are choking hazards.
 
-2. **A December book basket.** Wrap nothing, buy nothing new if you don't want to. Simply gather your winter and Christmas books into one basket by the couch on December 1 and put them away again in January. The once-a-year return is what makes them feel special. A rhyming board book like [Pick a Pine Tree](https://www.amazon.com/dp/1536255114?tag=creativedi03c-20) is a sweet start, since it follows a family choosing and decorating their tree.
+2. **A December book basket.** Wrap nothing, buy nothing new if you don't want to. Simply gather your winter and Christmas books into one basket by the couch on December 1 and put them away again in January. The once-a-year return is what makes them feel special. A rhyming board book like [Pick a Pine Tree](https://link.amazon/B08p3HQrl) is a sweet start, since it follows a family choosing and decorating their tree.
 
 3. **Tree lights on, same song.** Each evening, let your toddler flip the switch (or press the remote) and sing one short song together while the lights come on. That's it. It takes one minute and becomes the signal that the cozy part of the day has started.
 
-4. **A low tree or corner just for them.** A little tabletop tree, a branch in a jar or a felt tree on the wall gives them a place to decorate and redecorate as often as they like. Use a few [XmasExp shatterproof ball ornaments](https://www.amazon.com/dp/B07GLRPMVC?tag=creativedi03c-20) on ribbon loops rather than metal hooks. Ornament caps and hooks are small parts, so stay close while they play.
+4. **A low tree or corner just for them.** A little tabletop tree, a branch in a jar or a felt tree on the wall gives them a place to decorate and redecorate as often as they like. Use a few [XmasExp shatterproof ball ornaments](https://link.amazon/B0eHWst0Y) on ribbon loops rather than metal hooks. Ornament caps and hooks are small parts, so stay close while they play.
 
 ### Cozy evening traditions
 
 5. **A Christmas lights walk or drive.** Bundle up after dinner and go see the lights on your street, in the stroller, the wagon or the car in pajamas. Talk about colors and count the stars and snowmen you spot. It is free, it gets everyone outside and it is easy to repeat every Friday in December.
 
-6. **Candlelit story time.** Dim the lamps, switch on a few battery candles and read the same Christmas story every night of the week. [Vinkor flameless candles with a remote and timer](https://www.amazon.com/dp/B07D266SGW?tag=creativedi03c-20) give you the glow without the open flame. Keep them out of reach, and keep all batteries well away from little hands.
+6. **Candlelit story time.** Dim the lamps, switch on a few battery candles and read the same Christmas story every night of the week. [Vinkor flameless candles with a remote and timer](https://link.amazon/B0gCRFqDq) give you the glow without the open flame. Keep them out of reach, and keep all batteries well away from little hands.
 
 7. **Warm cocoa night.** One evening a week, make warm milk or a mild cocoa and drink it from special mugs at the table. Let your toddler stir and add a sprinkle of cinnamon. Serve it warm, not hot, and check the temperature yourself first.
 
 ### Making and giving
 
-8. **A handprint ornament, every year.** This might be the most loved tradition of all, because it quietly records how much they grow. A kit like the [Pearhead air dry clay handprint ornament kit](https://www.amazon.com/dp/B0CVQY863P?tag=creativedi03c-20) comes with letter and number stamps for the name and year. Clay is not food, so supervise closely and wash hands afterward.
+8. **A handprint ornament, every year.** This might be the most loved tradition of all, because it quietly records how much they grow. A kit like the [Pearhead air dry clay handprint ornament kit](https://link.amazon/B01Z22hjR) comes with letter and number stamps for the name and year. Clay is not food, so supervise closely and wash hands afterward.
 
 9. **Baking or decorating something to share.** Bake one simple treat together and bring a plate to a neighbor, a grandparent or the mail carrier. Toddlers love to carry, knock and hand things over. Giving becomes something they do, not just something you talk about.
 
@@ -63,9 +63,9 @@ A few things make a tradition toddler-friendly:
 
 ### Christmas Eve and Christmas morning
 
-11. **A Christmas Eve box.** A simple wooden crate with new pajamas, a book and a warm drink for the evening is one of those traditions that will last well beyond the toddler years. The [North Pole pine Christmas Eve box](https://www.amazon.com/dp/B0FHQ2XNPD?tag=creativedi03c-20) is roomy enough for pajamas and books and comes out again every year. Read the same story inside it each year, like [The Night Before Christmas board book](https://www.amazon.com/dp/160433438X?tag=creativedi03c-20) or [Little Blue Truck's Christmas](https://www.amazon.com/dp/0544320417?tag=creativedi03c-20).
+11. **A Christmas Eve box.** A simple wooden crate with new pajamas, a book and a warm drink for the evening is one of those traditions that will last well beyond the toddler years. The [North Pole pine Christmas Eve box](https://www.amazon.com/dp/B0FHQ2XNPD?tag=creativedi03c-20) is roomy enough for pajamas and books and comes out again every year. Read the same story inside it each year, like [The Night Before Christmas board book](https://www.amazon.com/dp/160433438X?tag=creativedi03c-20) or [Little Blue Truck's Christmas](https://link.amazon/B03MyV9dZ).
 
-12. **A Christmas memory page.** After the little ones are asleep on Christmas night, write down three things: what they loved most, a new word or phrase they said, and one photo you want to remember. A [25-year Christmas memories book](https://www.amazon.com/dp/B0CLXHQ6S9?tag=creativedi03c-20) keeps it all in one place, and one day you will read it together.
+12. **A Christmas memory page.** After the little ones are asleep on Christmas night, write down three things: what they loved most, a new word or phrase they said, and one photo you want to remember. A [25-year Christmas memories book](https://link.amazon/B03H7h5xg) keeps it all in one place, and one day you will read it together.
 
 ![A small wooden advent calendar with open drawers and folded paper activity notes on a linen runner](/images/christmas-traditions-with-toddlers-2.jpg)
 
@@ -117,15 +117,15 @@ If you would like a few ready to grab, my Christmas Toddler Activity Book gives 
 
 ## Shop the list
 
-- **[flangairy reusable wooden advent calendar](https://www.amazon.com/dp/B0FHB3459M?tag=creativedi03c-20):** Little drawers to fill with activity notes for a gentle countdown.
-- **[Pick a Pine Tree](https://www.amazon.com/dp/1536255114?tag=creativedi03c-20):** A rhyming board book about choosing and decorating the family tree.
-- **[XmasExp shatterproof ball ornaments](https://www.amazon.com/dp/B07GLRPMVC?tag=creativedi03c-20):** Shatterproof baubles for a tree your toddler can decorate.
-- **[Vinkor flameless candles with a remote and timer](https://www.amazon.com/dp/B07D266SGW?tag=creativedi03c-20):** Real wax LED candles for cozy, flame-free story time.
-- **[Pearhead air dry clay handprint ornament kit](https://www.amazon.com/dp/B0CVQY863P?tag=creativedi03c-20):** A no-bake handprint ornament with letter and number stamps.
+- **[flangairy reusable wooden advent calendar](https://link.amazon/B0asrSuVA):** Little drawers to fill with activity notes for a gentle countdown.
+- **[Pick a Pine Tree](https://link.amazon/B08p3HQrl):** A rhyming board book about choosing and decorating the family tree.
+- **[XmasExp shatterproof ball ornaments](https://link.amazon/B0eHWst0Y):** Shatterproof baubles for a tree your toddler can decorate.
+- **[Vinkor flameless candles with a remote and timer](https://link.amazon/B0gCRFqDq):** Real wax LED candles for cozy, flame-free story time.
+- **[Pearhead air dry clay handprint ornament kit](https://link.amazon/B01Z22hjR):** A no-bake handprint ornament with letter and number stamps.
 - **[North Pole pine Christmas Eve box](https://www.amazon.com/dp/B0FHQ2XNPD?tag=creativedi03c-20):** A wooden crate with a lid for pajamas, books and Christmas Eve treats.
 - **[The Night Before Christmas board book](https://www.amazon.com/dp/160433438X?tag=creativedi03c-20):** The classic poem in a sturdy board book edition.
-- **[Little Blue Truck's Christmas](https://www.amazon.com/dp/0544320417?tag=creativedi03c-20):** A cheerful Christmas story to read every year.
-- **[25-year Christmas memories book](https://www.amazon.com/dp/B0CLXHQ6S9?tag=creativedi03c-20):** A keepsake journal to record each family Christmas.
+- **[Little Blue Truck's Christmas](https://link.amazon/B03MyV9dZ):** A cheerful Christmas story to read every year.
+- **[25-year Christmas memories book](https://link.amazon/B03H7h5xg):** A keepsake journal to record each family Christmas.
 
 Order a little early so everything arrives in time, and always check the age label on the listing before you buy.
 
