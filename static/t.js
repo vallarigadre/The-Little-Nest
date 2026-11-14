@@ -33,8 +33,16 @@
     };
     if (u) return name(u) || u.slice(0, 30);
     var h = host(document.referrer);
-    if (!h || h === location.hostname) return null;
-    return name(h) || h.slice(0, 40);
+    if (h === location.hostname || /(^|\.)thelittlenest\.blog$|^thelittlenestblog\.netlify\.app$/.test(h)) return null;
+    if (h) return name(h) || h.slice(0, 40);
+    // No tag and no referrer: the Threads, Instagram, Facebook and Pinterest apps hide the referrer,
+    // but their in-app browsers name themselves in the user agent.
+    var ua = navigator.userAgent || "";
+    if (/Barcelona/.test(ua)) return "Threads";
+    if (/Instagram/.test(ua)) return "Instagram";
+    if (/FBAN|FBAV|FB_IAB|FBIOS/.test(ua)) return "Facebook";
+    if (/Pinterest/.test(ua)) return "Pinterest";
+    return null;
   }
 
   var src = null;
