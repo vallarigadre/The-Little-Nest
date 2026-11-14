@@ -2,7 +2,6 @@
 title: "12 simple Christmas traditions to start with your toddler"
 subtitle: "Small, repeatable rituals for 1 to 4 year olds that feel magical to them and doable for you, from a gentle advent countdown to a cozy Christmas Eve box."
 date: 2026-11-14
-draft: true
 category: Motherhood
 description: "12 simple Christmas traditions to start with your toddler: easy, low-stress rituals for 1 to 4 year olds, ideas by age and tips to keep December calm."
 tags: [christmas traditions with toddlers, toddler christmas traditions, family christmas traditions, slow christmas, christmas with a toddler, montessori christmas]
