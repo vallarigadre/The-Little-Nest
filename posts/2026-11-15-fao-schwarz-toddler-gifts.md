@@ -2,7 +2,6 @@
 title: "FAO Schwarz toddler gifts: heirloom-worthy toys from NYC's iconic toy store, now on Amazon"
 subtitle: "Wooden playsets, music makers and soft companions from the toy store founded in 1862, sorted by age for 1, 2 and 3 year olds."
 date: 2026-11-15
-draft: true
 category: Play
 description: "FAO Schwarz toddler gifts by age: wooden playsets, music toys and plush from the 1862 New York toy store, now on Amazon, with age labels and play tips."
 tags: [fao schwarz toddler gifts, fao schwarz amazon, toddler christmas gifts, wooden toys for toddlers, gifts for 2 year olds, gifts for 3 year olds, heirloom toys]
@@ -32,11 +31,11 @@ When I think about a gift that lasts, I look for three things:
 
 FAO Schwarz's toddler toys mostly start at 18 months, so for this stage I picked three classics from other brands that match the same calm, keep-forever feel. They're all labeled for age 1 and up.
 
-**A wooden push walker.** Early walkers love having something to push, and a sturdy wooden cart gives wobbly steps something steady to lean on. The [Hape Wonder Walker push and pull toy](https://www.amazon.com/dp/B00D5006PG?tag=creativedi03c-20) is made for 12 months and up. Later it becomes a wagon for carrying blocks, stuffed animals and treasures around the house. Use it on flat floors, away from stairs.
+**A wooden push walker.** Early walkers love having something to push, and a sturdy wooden cart gives wobbly steps something steady to lean on. The [Hape Wonder Walker push and pull toy](https://link.amazon/B0czd1OHp) is made for 12 months and up. Later it becomes a wagon for carrying blocks, stuffed animals and treasures around the house. Use it on flat floors, away from stairs.
 
-**A pound and tap bench.** Pounding is pure joy at this age, and it's great for hand-eye coordination. The [Hape Pound and Tap Bench with slide-out xylophone](https://www.amazon.com/dp/B00712O2D6?tag=creativedi03c-20) is two toys in one: bang the balls through, then slide out the xylophone and make music. Try tapping a simple rhythm and letting your toddler copy you.
+**A pound and tap bench.** Pounding is pure joy at this age, and it's great for hand-eye coordination. The [Hape Pound and Tap Bench with slide-out xylophone](https://link.amazon/B0djEmcjp) is two toys in one: bang the balls through, then slide out the xylophone and make music. Try tapping a simple rhythm and letting your toddler copy you.
 
-**A soft first baby doll.** A doll gives little ones their first chance to care for someone else: tucking in, patting, feeding a pretend bottle. The [Manhattan Toy Baby Stella soft first baby doll](https://www.amazon.com/dp/B00TLAZFKA?tag=creativedi03c-20) is a 15 inch soft doll labeled for ages 1 year and up, so it's a gentle first friend.
+**A soft first baby doll.** A doll gives little ones their first chance to care for someone else: tucking in, patting, feeding a pretend bottle. The [Manhattan Toy Baby Stella soft first baby doll](https://link.amazon/B066AZbpz) is a 15 inch soft doll labeled for ages 1 year and up, so it's a gentle first friend.
 
 ![Little hands tapping a small wooden drum with a maraca and tambourine nearby on a linen-covered low table in warm daylight](/images/fao-schwarz-toddler-gifts-2.jpg)
 
@@ -44,23 +43,23 @@ FAO Schwarz's toddler toys mostly start at 18 months, so for this stage I picked
 
 These three FAO Schwarz toys are labeled 18 months and up, so they're a lovely fit for a 2 year old, with room to grow into 3.
 
-**FAO Schwarz Jungle Drum 5-Piece Instrument Set.** A whole little band in one box: a drum, a zebra maraca, a peacock tambourine, a crocodile castanet and a snake guiro, and the instruments store inside the drum when music time is over. Two year olds love music they make themselves, and these give you so many easy games: loud and soft, fast and slow, a parade around the living room. Find the [FAO Schwarz Jungle Drum 5-Piece Instrument Set](https://www.amazon.com/dp/B0GNCZRQV2?tag=creativedi03c-20) here.
+**FAO Schwarz Jungle Drum 5-Piece Instrument Set.** A whole little band in one box: a drum, a zebra maraca, a peacock tambourine, a crocodile castanet and a snake guiro, and the instruments store inside the drum when music time is over. Two year olds love music they make themselves, and these give you so many easy games: loud and soft, fast and slow, a parade around the living room. Find the [FAO Schwarz Jungle Drum 5-Piece Instrument Set](https://link.amazon/B00JcsDVZ) here.
 
-**FAO Schwarz Learning Letters Wooden Animal Alphabet Board.** This wooden board comes with 26 animal-shaped letter pieces that fit back into their spaces. At 2, it's a satisfying shape puzzle and a chance to name animals together. At 3, you can start to talk about letter sounds, just for fun. Put out a handful of pieces at a time so it doesn't feel overwhelming. Find the [FAO Schwarz Learning Letters Wooden Animal Alphabet Board](https://www.amazon.com/dp/B0GMKN5CGC?tag=creativedi03c-20) here.
+**FAO Schwarz Learning Letters Wooden Animal Alphabet Board.** This wooden board comes with 26 animal-shaped letter pieces that fit back into their spaces. At 2, it's a satisfying shape puzzle and a chance to name animals together. At 3, you can start to talk about letter sounds, just for fun. Put out a handful of pieces at a time so it doesn't feel overwhelming. Find the [FAO Schwarz Learning Letters Wooden Animal Alphabet Board](https://link.amazon/B06AxqXPA) here.
 
-**FAO Schwarz 14" Cuddle Baby Doll.** A soft-bodied baby doll with a dress, bloomers, socks, boots and a headband, plus a pacifier and a birth certificate so your child can name the baby. Naming the doll together on Christmas morning is a sweet little moment. The pacifier and headband are small, so keep them with you for younger toddlers and offer them during supervised play. Find the [FAO Schwarz 14" Cuddle Baby Doll](https://www.amazon.com/dp/B0GLPLSXDS?tag=creativedi03c-20) here.
+**FAO Schwarz 14" Cuddle Baby Doll.** A soft-bodied baby doll with a dress, bloomers, socks, boots and a headband, plus a pacifier and a birth certificate so your child can name the baby. Naming the doll together on Christmas morning is a sweet little moment. The pacifier and headband are small, so keep them with you for younger toddlers and offer them during supervised play. Find the [FAO Schwarz 14" Cuddle Baby Doll](https://link.amazon/B03wOIjCS) here.
 
 ## FAO Schwarz gifts for 3 year olds
 
 This is where FAO Schwarz really shines. These are all labeled ages 3 and up, so save them for your 3 year old, and keep smaller pieces away from younger siblings.
 
-**FAO Schwarz Rescue Responders 2-in-1 Wooden Fire Station Playset.** A 21-piece wooden fire station is the kind of gift that turns into a whole world. Three year olds are ready for real storytelling, and a playset gives them a stage for rescues, bedtime at the station and lots of "nee naw" sound effects. It was one of the early bestsellers from the new Amazon store mentioned in the press. Find the [FAO Schwarz Rescue Responders 2-in-1 Wooden Fire Station Playset](https://www.amazon.com/dp/B0GNCZ7HRT?tag=creativedi03c-20) here.
+**FAO Schwarz Rescue Responders 2-in-1 Wooden Fire Station Playset.** A 21-piece wooden fire station is the kind of gift that turns into a whole world. Three year olds are ready for real storytelling, and a playset gives them a stage for rescues, bedtime at the station and lots of "nee naw" sound effects. It was one of the early bestsellers from the new Amazon store mentioned in the press. Find the [FAO Schwarz Rescue Responders 2-in-1 Wooden Fire Station Playset](https://link.amazon/B0j7xl4JU) here.
 
-**FAO Schwarz Fruit Stacker Wood Building Set.** Five wooden pieces, each shaped like a slice of a different fruit, to stack and balance in new ways. It's small and simple, which is exactly why it works: your child experiments, it topples, they try again. It's a quiet table activity for slow mornings. Find the [FAO Schwarz Fruit Stacker Wood Building Set](https://www.amazon.com/dp/B0GMX7846W?tag=creativedi03c-20) here.
+**FAO Schwarz Fruit Stacker Wood Building Set.** Five wooden pieces, each shaped like a slice of a different fruit, to stack and balance in new ways. It's small and simple, which is exactly why it works: your child experiments, it topples, they try again. It's a quiet table activity for slow mornings. Find the [FAO Schwarz Fruit Stacker Wood Building Set](https://link.amazon/B0i27C3UC) here.
 
-**FAO Schwarz Giant Dance Mat Piano.** If you've ever seen the famous giant piano at FAO Schwarz, you'll understand the appeal. This floor keyboard measures 101 by 29 inches, so your 3 year old can play music with their feet. It's the one "big and loud" pick on this list, so I'd save it for a rainy afternoon or a dance party before dinner, then roll it away. Find the [FAO Schwarz Giant Dance Mat Piano](https://www.amazon.com/dp/B0GNCK6THJ?tag=creativedi03c-20) here.
+**FAO Schwarz Giant Dance Mat Piano.** If you've ever seen the famous giant piano at FAO Schwarz, you'll understand the appeal. This floor keyboard measures 101 by 29 inches, so your 3 year old can play music with their feet. It's the one "big and loud" pick on this list, so I'd save it for a rainy afternoon or a dance party before dinner, then roll it away. Find the [FAO Schwarz Giant Dance Mat Piano](https://link.amazon/B03uTZsaR) here.
 
-**FAO Schwarz 22" Adopt-A-Pets Doodle Plush.** A big, soft plush puppy that comes with an adoption certificate to fill in. Three year olds love the ritual of "adopting" a new friend and choosing a name, and a cuddly companion this size often becomes the one that comes along everywhere. Find the [FAO Schwarz 22" Adopt-A-Pets Doodle Plush](https://www.amazon.com/dp/B0GNDYPQRF?tag=creativedi03c-20) here.
+**FAO Schwarz 22" Adopt-A-Pets Doodle Plush.** A big, soft plush puppy that comes with an adoption certificate to fill in. Three year olds love the ritual of "adopting" a new friend and choosing a name, and a cuddly companion this size often becomes the one that comes along everywhere. Find the [FAO Schwarz 22" Adopt-A-Pets Doodle Plush](https://link.amazon/B08PgX0te) here.
 
 ![A small wooden fruit stacking set balanced on a light oak table beside a cream linen napkin in soft afternoon light](/images/fao-schwarz-toddler-gifts-3.jpg)
 
@@ -84,16 +83,16 @@ The days around Christmas can be busy, and sometimes what helps most is somethin
 
 ## Shop the list
 
-- **[Hape Wonder Walker push and pull toy](https://www.amazon.com/dp/B00D5006PG?tag=creativedi03c-20):** A wooden push cart for new walkers, labeled 12 months and up.
-- **[Hape Pound and Tap Bench with slide-out xylophone](https://www.amazon.com/dp/B00712O2D6?tag=creativedi03c-20):** A pounding bench with a xylophone that slides out.
-- **[Manhattan Toy Baby Stella soft first baby doll](https://www.amazon.com/dp/B00TLAZFKA?tag=creativedi03c-20):** A 15 inch soft first doll for ages 1 and up.
-- **[FAO Schwarz Jungle Drum 5-Piece Instrument Set](https://www.amazon.com/dp/B0GNCZRQV2?tag=creativedi03c-20):** Five animal-themed instruments that store inside the drum.
-- **[FAO Schwarz Learning Letters Wooden Animal Alphabet Board](https://www.amazon.com/dp/B0GMKN5CGC?tag=creativedi03c-20):** A 27-piece wooden alphabet board with animal letters.
-- **[FAO Schwarz 14" Cuddle Baby Doll](https://www.amazon.com/dp/B0GLPLSXDS?tag=creativedi03c-20):** A soft-bodied baby doll with clothes and a birth certificate.
-- **[FAO Schwarz Rescue Responders 2-in-1 Wooden Fire Station Playset](https://www.amazon.com/dp/B0GNCZ7HRT?tag=creativedi03c-20):** A 21-piece wooden fire station for 3 year olds.
-- **[FAO Schwarz Fruit Stacker Wood Building Set](https://www.amazon.com/dp/B0GMX7846W?tag=creativedi03c-20):** Five wooden fruit slices to stack and balance.
-- **[FAO Schwarz Giant Dance Mat Piano](https://www.amazon.com/dp/B0GNCK6THJ?tag=creativedi03c-20):** A 101 inch floor keyboard to play with your feet.
-- **[FAO Schwarz 22" Adopt-A-Pets Doodle Plush](https://www.amazon.com/dp/B0GNDYPQRF?tag=creativedi03c-20):** A big plush puppy with an adoption certificate.
+- **[Hape Wonder Walker push and pull toy](https://link.amazon/B0czd1OHp):** A wooden push cart for new walkers, labeled 12 months and up.
+- **[Hape Pound and Tap Bench with slide-out xylophone](https://link.amazon/B0djEmcjp):** A pounding bench with a xylophone that slides out.
+- **[Manhattan Toy Baby Stella soft first baby doll](https://link.amazon/B066AZbpz):** A 15 inch soft first doll for ages 1 and up.
+- **[FAO Schwarz Jungle Drum 5-Piece Instrument Set](https://link.amazon/B00JcsDVZ):** Five animal-themed instruments that store inside the drum.
+- **[FAO Schwarz Learning Letters Wooden Animal Alphabet Board](https://link.amazon/B06AxqXPA):** A 27-piece wooden alphabet board with animal letters.
+- **[FAO Schwarz 14" Cuddle Baby Doll](https://link.amazon/B03wOIjCS):** A soft-bodied baby doll with clothes and a birth certificate.
+- **[FAO Schwarz Rescue Responders 2-in-1 Wooden Fire Station Playset](https://link.amazon/B0j7xl4JU):** A 21-piece wooden fire station for 3 year olds.
+- **[FAO Schwarz Fruit Stacker Wood Building Set](https://link.amazon/B0i27C3UC):** Five wooden fruit slices to stack and balance.
+- **[FAO Schwarz Giant Dance Mat Piano](https://link.amazon/B03uTZsaR):** A 101 inch floor keyboard to play with your feet.
+- **[FAO Schwarz 22" Adopt-A-Pets Doodle Plush](https://link.amazon/B08PgX0te):** A big plush puppy with an adoption certificate.
 
 Order a little early so everything arrives in time, and always check the age label on the listing before you buy.
 
