@@ -2,7 +2,6 @@
 title: "A calm Christmas with a toddler: travel, visits and holiday routines"
 subtitle: "Gentle, realistic ways to protect sleep, handle busy family visits and travel with a 1 to 4 year old, so the holidays feel cozy instead of chaotic."
 date: 2026-11-21
-draft: true
 category: Motherhood
 description: "How to have a calm Christmas with a toddler: simple tips for holiday travel, family visits, naps and routines, plus a packing checklist for 1 to 4 year olds."
 tags: [christmas with a toddler, traveling with a toddler, toddler holiday routine, toddler sleep while traveling, holiday visits with toddlers, calm christmas]
