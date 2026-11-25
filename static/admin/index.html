@@ -144,6 +144,10 @@ td a { color: inherit; }
       <table id="ctyTable"><tbody></tbody></table>
     </div>
   </div>
+  <div class="card" style="margin-top:16px">
+    <h2>Messages from the contact page</h2>
+    <table id="msgTable"><thead><tr><th>Date</th><th>From</th><th>Topic</th><th>Message</th></tr></thead><tbody><tr><td colspan="4" class="empty">Loading…</td></tr></tbody></table>
+  </div>
   <p class="note" style="margin-top:18px">Counts are anonymous. A view counts once per page per visit. "Read through" means the reader scrolled at least 60% of the way through a post. Platform comes from the link's utm_source tag, or the site the reader came from; Instagram and Threads apps often hide this, so tag your links there. Sales and earnings are in Amazon Associates under the thelittlenestblog-20 tracking ID.</p>
 </div>
 
@@ -178,12 +182,25 @@ td a { color: inherit; }
         $("login").hidden = true; $("app").hidden = false;
         var when = new Date().toLocaleString("en-IN", { dateStyle: "medium", timeStyle: "short" });
         $("status").textContent = "Updated " + when + "." + (d.partial ? " Very busy hour: some of the latest events will appear on the next refresh." : "");
-        fillPostFilter(); render();
+        fillPostFilter(); render(); loadMessages(key);
       })
       .catch(function (e) {
         if (e.message === "login") showLogin("That password didn't work.");
         else { $("app").hidden = false; $("status").textContent = "Couldn't load stats right now. Try Refresh in a minute."; }
       });
+  }
+
+  function loadMessages(key) {
+    fetch("/api/contact", { headers: { "x-key": key }, cache: "no-store" })
+      .then(function (r) { return r.ok ? r.json() : { messages: [] }; })
+      .then(function (d) {
+        var m = d.messages || [];
+        $("msgTable").querySelector("tbody").innerHTML = m.length ? m.map(function (x) {
+          var when = new Date(x.created).toLocaleString("en-IN", { dateStyle: "medium", timeStyle: "short" });
+          return "<tr><td>" + esc(when) + "</td><td>" + esc(x.name || "") + '<span class="sub"><a href="mailto:' + esc(x.email) + '">' + esc(x.email) + "</a></span></td><td>" + esc(x.topic || "") + '</td><td style="white-space:pre-wrap">' + esc(x.message) + "</td></tr>";
+        }).join("") : '<tr><td colspan="4" class="empty">No messages yet.</td></tr>';
+      })
+      .catch(function () { $("msgTable").querySelector("tbody").innerHTML = '<tr><td colspan="4" class="empty">Couldn\'t load messages.</td></tr>'; });
   }
 
   function dayList() {

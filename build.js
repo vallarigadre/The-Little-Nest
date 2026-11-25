@@ -284,8 +284,10 @@ ${body}
       ${site.sections.map((s) => `<a href="/${s.slug}/">${s.name}</a>`).join("")}
       <a href="/archive/">All stories</a>
       <a href="/about/">About</a>
+      <a href="/contact/">Contact</a>
       <a href="/disclosure/">Affiliate disclosure</a>
       <a href="/privacy/">Privacy</a>
+      <a href="/terms/">Terms</a>
       <a href="/rss.xml">RSS</a>
     </nav>
     <p class="foot__fine">As an Amazon Associate I earn from qualifying purchases. &copy; ${new Date().getFullYear()} ${esc(site.name)}</p>
@@ -457,6 +459,7 @@ function staticPages(pages) {
     const body = `<article class="post"><header class="post__head wrap"><h1>${esc(pg.title)}</h1></header><div class="prose">${pg.html}</div></article>`;
     write(`${pg.slug}/index.html`, layout({ title: pg.title, description: pg.description, path: `/${pg.slug}/`, body }));
   });
+  write("contact/thanks/index.html", layout({ title: "Message sent", path: "/contact/thanks/", body: `<section class="wrap narrow empty"><h1>Thank you, your message is on its way</h1><p>I read every message and will reply by email within 2 to 3 days. Until then, <a href="/">read the latest story</a>.</p></section>` }));
   write("thanks/index.html", layout({ title: "You're on the list", path: "/thanks/", body: `<section class="wrap narrow empty"><h1>You're on the list</h1><p>The next Sunday letter will land in your inbox. Until then, <a href="/">read the latest story</a>.</p></section>` }));
   write("404.html", layout({ title: "Page not found", path: "/404/", body: `<section class="wrap narrow empty"><h1>This page has moved or never existed</h1><p>Try the <a href="/archive/">full list of stories</a> or head back to the <a href="/">front page</a>.</p></section>` }));
 }
