@@ -42,7 +42,7 @@ For the youngest toddlers, look for sturdy board books with short text, bold pic
 
 **Tot school idea:** After reading, wrap a favorite toy in a scarf or a tea towel and let your toddler unwrap it. Then hide it under a cushion and ask, "Where is it?" It's the same game as the book, brought to life.
 
-![Small hands lifting the flap of a sturdy board book on a cream linen blanket beside a wooden toy and a sprig of pine](/images/christmas-books-for-toddlers-2.jpg)
+![A sturdy Christmas board book open on a cream linen blanket with one flap lifted, beside a wooden toy and a sprig of pine](/images/christmas-books-for-toddlers-2.jpg)
 
 ## Christmas and winter books for 2 year olds
 
@@ -68,7 +68,7 @@ Three year olds can follow longer stories, enjoy a bit of humor and love a book 
 
 **Tot school idea:** After Merry Christmas, Mouse!, set out a small paper or felt tree and five large paper circles as ornaments, and count them together as your child places each one. Large paper pieces keep it safe for younger siblings who might be nearby.
 
-![A child's hands seen from behind placing large paper ornaments on a simple felt tree taped to a low wooden shelf, with a picture book open nearby](/images/christmas-books-for-toddlers-3.jpg)
+![A simple felt Christmas tree with large paper ornaments pinned to a low wooden shelf, with a picture book open on top](/images/christmas-books-for-toddlers-3.jpg)
 
 ## How to set up a simple holiday book basket
 
