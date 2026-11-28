@@ -2,7 +2,6 @@
 title: "A calm toddler morning routine that actually works"
 subtitle: "A gentle, flexible morning rhythm for 1 to 4 year olds, built on small steps, a little independence and a lot of patience."
 date: 2026-11-28
-draft: true
 category: Motherhood
 description: "A calm toddler morning routine that actually works: simple steps, a visual routine, setup tips and a sample timeline for 1 to 4 year olds."
 tags: [toddler morning routine, calm mornings, toddler routine chart, montessori at home, toddler independence, gentle parenting]
