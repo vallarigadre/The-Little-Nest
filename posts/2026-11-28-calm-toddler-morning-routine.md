@@ -46,7 +46,7 @@ If your mornings are tight because of daycare or work, prepare the night before.
 
 A visual routine is a simple row of pictures showing the morning steps. Little ones love checking it, and it gives you a way to say "what's next on our chart?" instead of nagging. The chart becomes the boss, not you.
 
-You can make one with printed photos or drawings stuck to a board, or use a ready-made set. A magnetic visual schedule like [this routine board with picture cards](https://www.amazon.com/dp/B0FVTMB22V?tag=creativedi03c-20) lets your toddler move a step from "to do" to "done." Just be aware that magnets and small cards are a choking hazard for children under 3, so keep them out of reach of little ones who mouth things, and supervise closely. For younger toddlers, two or three large pictures are plenty.
+You can make one with printed photos or drawings stuck to a board, or use a ready-made set. A magnetic visual schedule like [this routine board with picture cards](https://link.amazon/B02qhfuod) lets your toddler move a step from "to do" to "done." Just be aware that magnets and small cards are a choking hazard for children under 3, so keep them out of reach of little ones who mouth things, and supervise closely. For younger toddlers, two or three large pictures are plenty.
 
 Timers can help too, especially for transitions like turning off a toy or finishing breakfast. A simple [wooden 3-minute sand timer](https://www.amazon.com/dp/B0DPZQ3GKX?tag=creativedi03c-20) is a gentle option for a short, screen-free countdown, such as tooth brushing. A [Time Timer visual timer](https://www.amazon.com/dp/B0GK2H9XKY?tag=creativedi03c-20) shows time shrinking as a red disk, which many toddlers find easier to grasp than a beeping alarm.
 
@@ -62,10 +62,10 @@ Here are small changes you can make, by age:
 
 Some helpful pieces, if they fit your space:
 
-- **A low clothing rack.** A small [wooden clothing rack for toddlers](https://www.amazon.com/dp/B0C4Q461WL?tag=creativedi03c-20) keeps a few outfits at child height, so choosing becomes a quick, calm moment.
-- **Low wall hooks.** [Wooden wall hooks for toddlers](https://www.amazon.com/dp/B0BJXFZL4J?tag=creativedi03c-20) give jackets and backpacks a home right by the door.
-- **A kitchen helper tower.** A [foldable wooden toddler tower](https://www.amazon.com/dp/B0H3K1T3SZ?tag=creativedi03c-20) lets your child safely join you at the counter during breakfast prep. Always supervise, follow the age and weight guidance on the product and keep it away from the stove.
-- **A small pitcher.** A [mini stainless steel pitcher](https://www.amazon.com/dp/B0DJP9TNQC?tag=creativedi03c-20) is great for practicing pouring milk into a cup, spills included. Keep the amount small and keep a cloth nearby.
+- **A low clothing rack.** A small [wooden clothing rack for toddlers](https://link.amazon/B04vTJGgv) keeps a few outfits at child height, so choosing becomes a quick, calm moment.
+- **Low wall hooks.** [Wooden wall hooks for toddlers](https://link.amazon/B08OaQ60X) give jackets and backpacks a home right by the door.
+- **A kitchen helper tower.** A [foldable wooden toddler tower](https://link.amazon/B04cldQ1O) lets your child safely join you at the counter during breakfast prep. Always supervise, follow the age and weight guidance on the product and keep it away from the stove.
+- **A small pitcher.** A [mini stainless steel pitcher](https://link.amazon/B0il7y3NZ) is great for practicing pouring milk into a cup, spills included. Keep the amount small and keep a cloth nearby.
 
 You don't need all of these. One or two changes at a time is plenty.
 
@@ -81,7 +81,7 @@ Every family's morning looks different, so treat this as a template rather than 
 - **7:55 to 8:05:** Tooth brushing with a sand timer.
 - **8:05 to 8:30:** Free play, or shoes and out the door with a 15 minute buffer built in.
 
-If you have an early riser, a simple [sunrise clock that signals when it is okay to get up](https://www.amazon.com/dp/B09MDQNJ36?tag=creativedi03c-20) can help older toddlers learn to stay in bed a little longer. It tends to work best from around age 2 or 3, once your child understands "wait for the light."
+If you have an early riser, a simple [sunrise clock that signals when it is okay to get up](https://link.amazon/B0a7Ddcdn) can help older toddlers learn to stay in bed a little longer. It tends to work best from around age 2 or 3, once your child understands "wait for the light."
 
 ## Breakfast without the battle
 
@@ -115,14 +115,14 @@ If you would like activity ideas ready for the free-play part of the morning, my
 
 Here are all the picks from this post in one place. You only need one or two to start:
 
-- [Magnetic visual schedule with picture cards](https://www.amazon.com/dp/B0FVTMB22V?tag=creativedi03c-20)
+- [Magnetic visual schedule with picture cards](https://link.amazon/B02qhfuod)
 - [Wooden 3-minute sand timer](https://www.amazon.com/dp/B0DPZQ3GKX?tag=creativedi03c-20)
 - [Time Timer visual timer](https://www.amazon.com/dp/B0GK2H9XKY?tag=creativedi03c-20)
-- [Wooden toddler clothing rack](https://www.amazon.com/dp/B0C4Q461WL?tag=creativedi03c-20)
-- [Wooden wall hooks for toddlers](https://www.amazon.com/dp/B0BJXFZL4J?tag=creativedi03c-20)
-- [Foldable wooden toddler tower](https://www.amazon.com/dp/B0H3K1T3SZ?tag=creativedi03c-20)
-- [Mini stainless steel pitcher](https://www.amazon.com/dp/B0DJP9TNQC?tag=creativedi03c-20)
-- [Sunrise clock that signals when it is okay to wake](https://www.amazon.com/dp/B09MDQNJ36?tag=creativedi03c-20)
+- [Wooden toddler clothing rack](https://link.amazon/B04vTJGgv)
+- [Wooden wall hooks for toddlers](https://link.amazon/B08OaQ60X)
+- [Foldable wooden toddler tower](https://link.amazon/B04cldQ1O)
+- [Mini stainless steel pitcher](https://link.amazon/B0il7y3NZ)
+- [Sunrise clock that signals when it is okay to wake](https://link.amazon/B0a7Ddcdn)
 
 ## One more thing before you go
 
